@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 Tim Ozdemir is Experienced Technologist with proven success record spanning over 20 years in both business and academia. 
 Earned Ph.D. and MS in Computer and Information Science from Syracuse University, Syracuse, New York. 
 Earned Advanced Certificate for Executives (ACE) in Management, Innovation, and Technology from Massachusetts Institute of Technology Sloan School of Management. 
