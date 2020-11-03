@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tim Ozdemir"
-  avatar           : "./images/tim_ozdemir.gif"
+  avatar           : "tim_ozdemir.gif"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
