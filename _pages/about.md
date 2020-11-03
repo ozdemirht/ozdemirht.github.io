@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+Tim Ozdemir is Experienced Technologist with proven success record spanning over 20 years in both business and academia. 
+Earned Ph.D. and MS in Computer and Information Science from Syracuse University, Syracuse, New York. 
+Earned Advanced Certificate for Executives (ACE) in Management, Innovation, and Technology from Massachusetts Institute of Technology Sloan School of Management. 
+Certifications for PMI Project Management Professional, PMI-ACP, AWS Certified Solutions Architect - Associate, Scrum Product Owner, Scrum Master, and SAFe 4 Agilist. Member of IEEE (ieee.org), ACM (acm.org), NYAS (nyas.org), and PMI (pmi.org). 
+Authorized to work in the USA without employment visa sponsorship now and in the future. 
+
+
 Articles on [Medium.com](Medium.com)
 ======
 Links to articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
@@ -31,8 +38,12 @@ List of publications, and patents
 Certifications
 ======
 
-Notes
+Accomplishments
 ------
-
+- Received IEEE and ACM Senior Member awards recognizing work & research contributions
+- Co-authored 15 US patents & 20+ papers (received 1000+ references, Google Scholar). 
+See http://scholar.google.com/citations?user=JCFmKSkAAAAJ&hl=en , https://www.researchgate.net/profile/Hasan_Timucin_Ozdemir
+- Elected Member of ONVIF Technical Committee (Nov 2015-Oct 2018). Represented Panasonic.
+- Chairperson of ONVIF Video Enhancement Working Group (Aug 2009-Oct 2018)
 
 by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
