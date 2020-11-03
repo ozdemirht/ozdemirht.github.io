@@ -10,7 +10,7 @@ redirect_from:
 
 
 [Tim](https://www.linkedin.com/in/hasantimucinozdemir) is Experienced Technologist with proven success record spanning over 20 years in both business and academia. 
-- Earned Ph.D. and MS in Computer and Information Science from Syracuse University, Syracuse, New York. 
+- Earned Ph.D. and MS in [Computer and Information Science from Syracuse University](https://eng-cs.syr.edu/), Syracuse, New York, USA. 
 - Earned Advanced Certificate for Executives (ACE) in Management, Innovation, and Technology from Massachusetts Institute of Technology Sloan School of Management. 
 - Certifications for PMI Project Management Professional, PMI-ACP, AWS Certified Solutions Architect - Associate, Scrum Product Owner, Scrum Master, and SAFe 4 Agilist. 
 - Member of IEEE (ieee.org), ACM (acm.org), NYAS (nyas.org), and PMI (pmi.org). 
