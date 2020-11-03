@@ -21,7 +21,7 @@ redirect_from:
   - [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) (2020-2023), 
   - Scrum Product Owner (2018-2021), 
   - Scrum Master  (2018-2021), 
-  - SAFe 4 Agilist  (2018-2021),
+  - [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2021),
   - [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (2019),
   - [Rutgers Business School](https://www.business.rutgers.edu/executive-education) Mini-MBA for Engineers and Technology Managers (2016).
 - Member of IEEE (ieee.org), ACM (acm.org), NYAS (nyas.org), and PMI (pmi.org). 
