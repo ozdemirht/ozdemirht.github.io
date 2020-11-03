@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tim Ozdemir, PhD, PMP"
 title_separator          : "-"
-name                     : &name "[Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)"
+name                     : &name "Tim Ozdemir"
 description              : &description "personal description"
 url                      : "https://ozdemirht.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
