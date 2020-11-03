@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tim Ozdemir / Site Title"
+title                    : "Tim Ozdemir / Personal"
 title_separator          : "-"
 name                     : &name "Tim Ozdemir"
 description              : &description "personal description"
