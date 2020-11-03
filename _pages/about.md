@@ -16,12 +16,14 @@ redirect_from:
   - Executive Certificate in Strategy and Innovation (2017)
   - Executive Certificate in Technology, Operations, and Value Chain Management (2017)
 - Certifications for 
-  - [PMI Project Management Professional (PMP)](https://www.pmi.org/), 
-  - [PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/), 
-  - AWS Certified Solutions Architect - Associate, 
-  - Scrum Product Owner, 
-  - Scrum Master, and 
-  - SAFe 4 Agilist. 
+  - [PMI Project Management Professional (PMP)](https://www.pmi.org/) (2018-2024), 
+  - [PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/) (2020-2023), 
+  - AWS Certified Solutions Architect - Associate (2020-2023), 
+  - Scrum Product Owner (2018-2021), 
+  - Scrum Master  (2018-2021), 
+  - SAFe 4 Agilist  (2018-2021),
+  - Udacity Data Engineering Nanodegree (2019),
+  - Rutgers Business School Mini-MBA for Engineers and Technology Managers (2016).
 - Member of IEEE (ieee.org), ACM (acm.org), NYAS (nyas.org), and PMI (pmi.org). 
 - Authorized to work in the USA without employment visa sponsorship now and in the future. 
 
