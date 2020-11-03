@@ -18,7 +18,7 @@ redirect_from:
 - Certifications for 
   - [PMI Project Management Professional (PMP)](https://www.pmi.org/) (2018-2024), 
   - [PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/) (2020-2023), 
-  - AWS Certified Solutions Architect - Associate (2020-2023), 
+  - [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) (2020-2023), 
   - Scrum Product Owner (2018-2021), 
   - Scrum Master  (2018-2021), 
   - SAFe 4 Agilist  (2018-2021),
