@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tim Ozdemir / Personal"
+title                    : "[Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir), PhD, [PMP](www.pmi.org)"
 title_separator          : "-"
 name                     : &name "Tim Ozdemir"
 description              : &description "personal description"
