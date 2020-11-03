@@ -13,8 +13,8 @@ redirect_from:
 - Earned Ph.D. and MS in [Computer and Information Science from Syracuse University](https://eng-cs.syr.edu/), Syracuse, New York, USA. 
 - Earned Advanced Certificate for Executives (ACE) in Management, Innovation, and Technology from [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/). 
 - Certifications for 
-  - [PMI Project Management Professional](www.pmi.org), 
-  - [PMI-ACP](www.pmi.org), 
+  - [PMI Project Management Professional](https://www.pmi.org/), 
+  - [PMI-ACP](https://www.pmi.org/), 
   - AWS Certified Solutions Architect - Associate, 
   - Scrum Product Owner, Scrum Master, and 
   - SAFe 4 Agilist. 
