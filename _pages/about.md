@@ -22,7 +22,7 @@ redirect_from:
   - Scrum Product Owner (2018-2021), 
   - Scrum Master  (2018-2021), 
   - SAFe 4 Agilist  (2018-2021),
-  - Udacity Data Engineering Nanodegree (2019),
+  - [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (2019),
   - [Rutgers Business School](https://www.business.rutgers.edu/executive-education) Mini-MBA for Engineers and Technology Managers (2016).
 - Member of IEEE (ieee.org), ACM (acm.org), NYAS (nyas.org), and PMI (pmi.org). 
 - Authorized to work in the USA without employment visa sponsorship now and in the future. 
