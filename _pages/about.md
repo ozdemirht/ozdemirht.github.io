@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tim Ozdemir. PhD, PMP"
+title: "[Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir), PhD, PMP"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
