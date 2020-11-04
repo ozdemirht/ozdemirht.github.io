@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Part-time Instructor"
 collection: teaching
 type: "Graduate Courses"
 permalink: /teaching/2019-Syracuse-University
