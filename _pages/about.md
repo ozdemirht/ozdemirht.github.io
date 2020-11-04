@@ -28,6 +28,13 @@ redirect_from:
 - Member of [IEEE](https://www.ieee.org/) (ieee.org), [ACM](https://www.acm.org) (acm.org), [NYAS](https://www.nyas.org) (nyas.org), and [PMI](https://www.pmi.org/) (pmi.org). 
 - Authorized to work in the USA without employment visa sponsorship now and in the future. 
 
+Accomplishments
+------
+- Received [IEEE](https://www.ieee.org/membership/senior/) and [ACM Senior Member](https://awards.acm.org/senior-members) awards recognizing work & research contributions
+- Co-authored 15 US patents & 20+ papers (received 1000+ references, Google Scholar). 
+See [Google Scholar](http://scholar.google.com/citations?user=JCFmKSkAAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Hasan_Timucin_Ozdemir)
+- Elected Member of ONVIF Technical Committee (Nov 2015-Oct 2018). Represented Panasonic.
+- Chairperson of ONVIF Video Enhancement Working Group (Aug 2009-Oct 2018)
 
 Articles on [Medium.com](Medium.com)
 ======
@@ -52,12 +59,5 @@ List of publications, and patents
 Certifications
 ======
 
-Accomplishments
-------
-- Received [IEEE](https://www.ieee.org/membership/senior/) and [ACM Senior Member](https://awards.acm.org/senior-members) awards recognizing work & research contributions
-- Co-authored 15 US patents & 20+ papers (received 1000+ references, Google Scholar). 
-See [Google Scholar](http://scholar.google.com/citations?user=JCFmKSkAAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Hasan_Timucin_Ozdemir)
-- Elected Member of ONVIF Technical Committee (Nov 2015-Oct 2018). Represented Panasonic.
-- Chairperson of ONVIF Video Enhancement Working Group (Aug 2009-Oct 2018)
 
 by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
