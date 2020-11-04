@@ -56,8 +56,5 @@ List of publications, and patents
 8. [USA Patent Collection DB](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=1&f=S&l=50&Query=in%2Fozdemir+and+%28timucin+or+hasan%29&d=PTXT)
 9. [Mensions](https://www.securityinformed.com/people/hasan-ozdemir.html), [2018](https://www.securityinformed.com/news/onvif-annual-meeting-technical-committees-co-227-ga-co-1277-ga-co-1286-ga-co-2173-ga-co-3101-ga-co-3289-ga-co-3425-ga-co-4261-ga-co-8173-ga-co-8421-ga-co-11239-ga-co-14002-ga.1543999220.html), [2017](https://www.securityinformed.com/news/onvif-hosts-2017-membership-meeting-accomplishments-outlook-co-3101-ga-co-227-ga-co-289-ga-co-2654-ga-co-4261-ga-co-2566-ga-co-9381-ga-co-3425-ga-co-2173-ga-co-8173-ga-co-1277-ga-co-1286-ga-co-9935-ga-co-8421-ga.24101.html), [2016](https://www.securityinformed.com/news/onvif-highlights-accomplishments-2016-annual-membership-meeting-co-3101-ga-co-227-ga-co-289-ga-co-2654-ga-co-4261-ga-co-13220-ga-co-2173-ga-co-8173-ga-co-6080-ga-co-1286-ga-co-3289-ga.21799.html), [2015](https://www.securityinformed.com/news/onvif-hosts-2015-membership-meeting-elections-co-7254-ga-co-289-ga-co-10288-ga-co-9294-ga-co-8173-ga-co-6080-ga-co-1286-ga-co-1546-ga-co-9935-ga-co-13357-ga.18950.html)
 
-Certifications
-======
-
 
 by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
