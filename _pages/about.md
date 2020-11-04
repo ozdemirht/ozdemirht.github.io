@@ -59,8 +59,8 @@ Publications
 
 Patents
 ------
-1. [Patents](https://patents.google.com/?inventor=Hasan+Timucin+OZDEMIR)
 1. [USA Patent Collection DB](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=1&f=S&l=50&Query=in%2Fozdemir+and+%28timucin+or+hasan%29&d=PTXT)
+1. [Patents](https://patents.google.com/?inventor=Hasan+Timucin+OZDEMIR)
 
 Sites
 ------
