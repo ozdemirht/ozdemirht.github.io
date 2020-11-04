@@ -33,8 +33,8 @@ Accomplishments
 - Received [IEEE](https://www.ieee.org/membership/senior/) and [ACM Senior Member](https://awards.acm.org/senior-members) awards recognizing work & research contributions
 - Co-authored 15 US patents & 20+ papers (received 1000+ references, Google Scholar). 
 See [Google Scholar](http://scholar.google.com/citations?user=JCFmKSkAAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Hasan_Timucin_Ozdemir)
-- Elected Member of ONVIF Technical Committee (Nov 2015-Oct 2018). Represented Panasonic.
-- Chairperson of ONVIF Video Enhancement Working Group (Aug 2009-Oct 2018)
+- <i>Elected Member</i> of [ONVIF](https://www.onvif.org/) Technical Committee (Nov 2015-Oct 2018). Represented Panasonic.
+- <i>Chairperson</i> of [ONVIF](https://www.onvif.org/) Video Enhancement Working Group (Aug 2009-Oct 2018)
 
 Articles on [Medium.com](Medium.com)
 ======
