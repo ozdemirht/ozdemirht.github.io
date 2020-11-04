@@ -16,7 +16,7 @@ redirect_from:
   - Executive Certificate in Strategy and Innovation (2017)
   - Executive Certificate in Technology, Operations, and Value Chain Management (2017)
 - Earned BS in [Computer Science](https://www.cs.hacettepe.edu.tr/index.html) from [Hacettepe University](http://www.hacettepe.edu.tr/), Ankara, Turkey.
-- Certifications for 
+- Certifications  
   - [PMI Project Management Professional (PMP)](https://www.pmi.org/) (2018-2024), 
   - [PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/) (2020-2023), 
   - [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) (2020-2023), 
