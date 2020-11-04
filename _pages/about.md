@@ -54,7 +54,7 @@ Certifications
 
 Accomplishments
 ------
-- Received IEEE and ACM Senior Member awards recognizing work & research contributions
+- Received IEEE and [ACM Senior Member](https://awards.acm.org/senior-members) awards recognizing work & research contributions
 - Co-authored 15 US patents & 20+ papers (received 1000+ references, Google Scholar). 
 See [Google Scholar](http://scholar.google.com/citations?user=JCFmKSkAAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Hasan_Timucin_Ozdemir)
 - Elected Member of ONVIF Technical Committee (Nov 2015-Oct 2018). Represented Panasonic.
