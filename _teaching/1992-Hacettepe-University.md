@@ -7,3 +7,5 @@ venue: "Hacettepe University, Department of Computer Science"
 date: Jan 1992- Aug 1994
 location: "Ankara, Turkey"
 ---
+
+Hacettepe University, Department of Computer Science, Jan 1992- Aug 1994
