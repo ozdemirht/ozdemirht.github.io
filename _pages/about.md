@@ -66,6 +66,7 @@ Sites
 1. [LinkedIn](https://www.linkedin.com/in/hasantimucinozdemir)
 1. [HackerRank](https://www.hackerrank.com/profile/ozdtm2019)
 1. LeetCode
+1. [Medium.com](https://medium.com/@ozdemirtim/)
 1. [GitHub](https://github.com/ozdemirht)
 1. [GitHub Page](https://ozdemirht.github.io/)
 
