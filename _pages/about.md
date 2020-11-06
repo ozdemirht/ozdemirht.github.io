@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-[Tim](https://www.linkedin.com/in/hasantimucinozdemir) is Experienced Technologist with proven success record spanning over 20 years in both business and academia. He is a Software Engineering Manager: Data and Analytics in IAC (iac.com) Mosaic Group. 
+[Tim](https://www.linkedin.com/in/hasantimucinozdemir) is Experienced Technologist with proven success record spanning over 20 years in both business and academia. He is a Software Engineering Manager: Data and Analytics in [IAC](iac.com)'s Mosaic Group. 
 - Earned Ph.D. and MS in [Computer and Information Science](https://eng-cs.syr.edu/) from [Syracuse University](https://www.syracuse.edu/), Syracuse, New York, USA. 
 - Earned <i>Advanced Certificate for Executives (ACE) in Management, Innovation, and Technology</i> (2018) from [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/). 
   - Executive Certificate in Management and Leadership (2017)
