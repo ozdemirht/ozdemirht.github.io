@@ -251,6 +251,15 @@ defaults:
       layout: talks
       author_profile: true
       share: true
+  # _patents
+  - scope:
+      path: ""
+      type: patents
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
