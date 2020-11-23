@@ -248,7 +248,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: patents
       author_profile: true
       share: true
   # _patents
