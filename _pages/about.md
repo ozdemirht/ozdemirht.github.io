@@ -36,7 +36,7 @@ See [Google Scholar](http://scholar.google.com/citations?user=JCFmKSkAAAAJ&hl=en
 - <i>Elected Member</i> of [ONVIF](https://www.onvif.org/) Technical Committee (Nov 2015-Oct 2018). Represented Panasonic.
 - <i>Chairperson</i> of [ONVIF](https://www.onvif.org/) Video Enhancement Working Group (Aug 2009-Oct 2018)
 
-Articles on [Medium.com](Medium.com)
+Articles on [Medium.com](http://medium.com)
 ======
 Links to articles in [Medium.com](https://medium.com/@ozdemirtim/) by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
 

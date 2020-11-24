@@ -1,0 +1,25 @@
+---
+title: "System architecture and process for automating intelligent surveillance center operations"
+collection: patents
+permalink: /patents/2010-11-23-Patent
+excerpt: 'The intelligent, automated surveillance system collects the interactions between the security personal and the surveillance system during the handling of an alarm.'
+date: 2010-11-23
+venue: 'US 7,840,515'
+paperurl: 'http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=7,840,515.PN.&OS=PN/7,840,515&RS=PN/7,840,515'
+citation: 'K.C. Lee, Hasan Timucin Ozdemir, Juan Yu. (2010). &quot;System architecture and process for automating intelligent surveillance center operations&quot;, <i>US 7,840,515 (November 23, 2010)</i>.'
+---
+
+Abstract
+========
+The intelligent, automated surveillance system collects the interactions between the security personal and the surveillance system during the handling of an alarm.
+Each alarm is modeled as a "transaction" and each operation/action that a security personal executes modeled as an "event" within the transaction.
+The collected events within the transaction are in partial order. Furthermore, the system provides a scoring system for a security manager to evaluate the performance of the security guard.
+The score of the sequence of actions that the security guard performed manually and the system performed automatically for each set of dependent alarms are used to decide future sequence of operation. 
+Security guards can overwrite the automatic sequencing of actions with manual sequence of operations.
+<br>
+See
+- [US 7,840,515](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=7,840,515.PN.&OS=PN/7,840,515&RS=PN/7,840,515)
+- [WO2008103207](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2008103207&recNum=2&office=&queryString=FP%3A%28ozedmir%29&prevFilter=&sortOption=Pub+Date+Desc&maxRec=4)
+
+<br>
+Recommended citation: [Hasan Timucin Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir/), Hongbing Li, Lipin Liu, Kuo Chu Lee, Namsoo Joo . (2010). "System architecture and process for automating intelligent surveillance center operations", <i>US 7,840,515 (November 23, 2010)</i>. 
