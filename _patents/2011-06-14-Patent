@@ -1,0 +1,25 @@
+---
+title: "System architecture and process for seamless adaptation to context aware behavior models"
+collection: patents
+permalink: /patents/2011-06-14-Patent
+excerpt: 'A surveillance system implements an architecture and process to support real-time abnormal behavior assessment operations in a distributed scalable sensor network.'
+date: 2011-06-14
+venue: 'US 7,962,435'
+paperurl: 'http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=7,962,435.PN.&OS=PN/7,962,435&RS=PN/7,962,435'
+citation: 'K.C. Lee, Hasan Timucin Ozdemir, Juan Yu. (2012). &quot;System architecture and process for seamless adaptation to context aware behavior models&quot;, <i>US 7,962,435 (June 14, 2011)</i>.'
+---
+
+Abstract
+========
+A surveillance system implements an architecture and process to support real-time abnormal behavior assessment operations in a distributed scalable sensor network.
+An automated behavior model builder generates behavior models from sensor data. 
+A plurality of abnormal behavior scoring engines operating concurrently to generate abnormal behavior assessment models by scoring the behavior models. 
+An execution performance manager performs fast switching of behavior models for the abnormal behavior scoring engines. 
+The execution performance manager performs detection of abnormal behavior score distribution characteristic deviation by comparing a current abnormal behavior assessment model to a pre-recorded abnormal behavior assessment model. 
+The execution performance manager selects a pre-recorded behavior model for the abnormal behavior scoring engines when the deviation exceeds a predetermined threshold.
+<br>
+See
+- [US 7,962,435](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=7,962,435.PN.&OS=PN/7,962,435&RS=PN/7,962,435)
+
+<br>
+Recommended citation: [Hasan Timucin Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir/), Hongbing Li, Lipin Liu, Kuo Chu Lee, Namsoo Joo . (2011). "System architecture and process for seamless adaptation to context aware behavior models", <i>US 7,962,435 (June 14, 2011)</i>. 
