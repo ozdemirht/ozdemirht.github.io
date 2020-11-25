@@ -46,8 +46,13 @@ Teaching
 
 Awards
 ======
-*
-*
+* ONVIF Distinguished Service, 2018 
+* ONVIF 2014
+* Panasonic Corporation IP Commendation, 2014
+* Received ACM Senior Member award recognizing work & research contributions, 2013
+* Received IEEE Senior Member award recognizing work & research contributions, 2013
+* Panasonic Corporation of North America (PNA) award, 2013
+
 
 Publications
 ======
