@@ -37,18 +37,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Patents
-=======
-  <ul>{% for post in site.patents %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -60,6 +48,19 @@ Awards
 ======
 *
 *
+
+Publications
+======
+  <ol>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ol>
+  
+Patents
+=======
+  <ol>{% for post in site.patents %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ol>
+  
 
 Service and leadership
 ======
