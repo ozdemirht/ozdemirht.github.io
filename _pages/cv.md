@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in [Computer and Information Science](https://eng-cs.syr.edu/) from [Syracuse University](https://www.syracuse.edu/), Syracuse, New York, USA, 1996.
+* Ph.D. in [Computer and Information Science](https://eng-cs.syr.edu/) from [Syracuse University](https://www.syracuse.edu/), Syracuse, New York, USA, 2001.
 
 Work experience
 ======
