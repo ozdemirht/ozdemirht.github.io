@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant (1996-1997)"
 collection: teaching
 type: "Graduate & Undergraduate Courses"
 permalink: /teaching/1997-Syracuse-University

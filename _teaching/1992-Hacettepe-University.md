@@ -1,5 +1,5 @@
 ---
-title: "Research and Teaching Assistant"
+title: "Research and Teaching Assistant (1992-1994)"
 collection: teaching
 type: "Undergraduate Courses"
 permalink: /teaching/1992-Hacettepe-University
