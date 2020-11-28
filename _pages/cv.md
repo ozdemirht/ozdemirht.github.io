@@ -55,10 +55,6 @@ Certifications
 * [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (2019),
 * [Rutgers Business School](https://www.business.rutgers.edu/executive-education) <i>Mini-MBA for Engineers and Technology Managers</i> (2016).
 
-Affiliations and Memberships   
-======
-- Member of [IEEE](https://www.ieee.org/) (ieee.org), [ACM](https://www.acm.org) (acm.org), [NYAS](https://www.nyas.org) (nyas.org), and [PMI](https://www.pmi.org/) (pmi.org). 
-
  
 Publications
 ======
@@ -80,6 +76,12 @@ Service and leadership
 * (2017) Reviewer for International Journal of Data Science and Analytics (for ACM KDD workshop). (2017)
 * (2014,2015) Reviewer for ITS 2014 and ITS 2015 Conferences.
 * (1998) Elected Graduate Student Representative on College Tenure and Promotions Committee (Fall 1998 and Spring 1999)
+
+
+Affiliations and Memberships   
+======
+- Member of [IEEE](https://www.ieee.org/) (ieee.org), [ACM](https://www.acm.org) (acm.org), [NYAS](https://www.nyas.org) (nyas.org), and [PMI](https://www.pmi.org/) (pmi.org). 
+
 
 Skills
 ======
