@@ -18,24 +18,19 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2019 - Present, Software Engineering Manager: Data and Analytics, [IAC (iac.com)](https://www.iac.com/) [Mosaic Group](https://www.iac.com/brand/mosaic-group), New York, New York, USA.
+* November 1999 - October 2018, Principal Engineer, Panasonic R&D Center, Princeton, New Jersey, USA.
+* May 1997 - October 1999, Research Assistant, Northeast Parallel Architecture Center([NPAC](https://surface.syr.edu/npac/)), [Syracuse University](https://www.syracuse.edu/), Syracuse, New York, USA.
+* August 1996 - May 1997, Teaching Assistant,  [College of Engineering and Computer Science](https://eng-cs.syr.edu/), [Syracuse University](https://www.syracuse.edu/), Syracuse, New York, USA.
+* Jan 1992- Aug 1994, Research and Teaching Assistant, [Department of Computer Science](https://www.cs.hacettepe.edu.tr/index.html),[Hacettepe University](https://www.hacettepe.edu.tr/english/), Ankara, Turkey.
+
+ 
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Teaching
 ======
@@ -75,3 +70,11 @@ Service and leadership
 * (2014,2015) Reviewer for ITS 2014 and ITS 2015 Conferences.
 * (1998) Elected Graduate Student Representative on College Tenure and Promotions Committee (Fall 1998 and Spring 1999)
 
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
