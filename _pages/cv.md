@@ -44,6 +44,22 @@ Awards
 * Received IEEE Senior Member award recognizing work & research contributions, 2013
 * Panasonic Corporation of North America (PNA) award, 2013
 
+Certifications  
+======
+* [PMI Project Management Professional (PMP)](https://www.pmi.org/) (2018-2024), 
+* [PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/) (2020-2023), 
+* [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) (2020-2023), 
+* Scrum Product Owner (2018-2021), 
+* Scrum Master  (2018-2021), 
+* [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2021),
+* [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (2019),
+* [Rutgers Business School](https://www.business.rutgers.edu/executive-education) <i>Mini-MBA for Engineers and Technology Managers</i> (2016).
+
+Professional   
+======
+- Member of [IEEE](https://www.ieee.org/) (ieee.org), [ACM](https://www.acm.org) (acm.org), [NYAS](https://www.nyas.org) (nyas.org), and [PMI](https://www.pmi.org/) (pmi.org). 
+
+ 
 Publications
 ======
   <ol>{% for post in site.publications %}
