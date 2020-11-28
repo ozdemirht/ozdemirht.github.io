@@ -29,19 +29,11 @@ Work experience
 * Jan 1992- Aug 1994, <i>Research and Teaching Assistant</i>, 
   * [Department of Computer Science](https://www.cs.hacettepe.edu.tr/index.html),[Hacettepe University](https://www.hacettepe.edu.tr/english/), Ankara, Turkey.
 
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
 
 Awards
 ======
@@ -51,7 +43,6 @@ Awards
 * Received ACM Senior Member award recognizing work & research contributions, 2013
 * Received IEEE Senior Member award recognizing work & research contributions, 2013
 * Panasonic Corporation of North America (PNA) award, 2013
-
 
 Publications
 ======
