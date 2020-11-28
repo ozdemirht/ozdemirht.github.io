@@ -55,7 +55,7 @@ Certifications
 * [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (2019),
 * [Rutgers Business School](https://www.business.rutgers.edu/executive-education) <i>Mini-MBA for Engineers and Technology Managers</i> (2016).
 
-Professional   
+Affiliations and Memberships   
 ======
 - Member of [IEEE](https://www.ieee.org/) (ieee.org), [ACM](https://www.acm.org) (acm.org), [NYAS](https://www.nyas.org) (nyas.org), and [PMI](https://www.pmi.org/) (pmi.org). 
 
