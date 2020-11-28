@@ -18,13 +18,17 @@ Education
 
 Work experience
 ======
-* April 2019 - Present, Software Engineering Manager: Data and Analytics, [IAC (iac.com)](https://www.iac.com/) [Mosaic Group](https://www.iac.com/brand/mosaic-group), New York, New York, USA.
-* November 1999 - October 2018, Principal Engineer, Panasonic R&D Center, Princeton, New Jersey, USA.
-* May 1997 - October 1999, Research Assistant, Northeast Parallel Architecture Center([NPAC](https://surface.syr.edu/npac/)), [Syracuse University](https://www.syracuse.edu/), Syracuse, New York, USA.
-* August 1996 - May 1997, Teaching Assistant,  [College of Engineering and Computer Science](https://eng-cs.syr.edu/), [Syracuse University](https://www.syracuse.edu/), Syracuse, New York, USA.
-* Jan 1992- Aug 1994, Research and Teaching Assistant, [Department of Computer Science](https://www.cs.hacettepe.edu.tr/index.html),[Hacettepe University](https://www.hacettepe.edu.tr/english/), Ankara, Turkey.
+* April 2019 - Present, <i>Software Engineering Manager: Data and Analytics</i>, 
+  * [IAC (iac.com)](https://www.iac.com/) [Mosaic Group](https://www.iac.com/brand/mosaic-group), New York, New York, USA.
+* November 1999 - October 2018, <i>Principal Engineer,</i> 
+  * Panasonic R&D Center, Princeton, New Jersey, USA.
+* May 1997 - October 1999, <i>Research Assistant</i>, 
+  * Northeast Parallel Architecture Center([NPAC](https://surface.syr.edu/npac/)), [Syracuse University](https://www.syracuse.edu/), Syracuse, New York, USA.
+* August 1996 - May 1997, <i>Teaching Assistant</i>,  
+  * [College of Engineering and Computer Science](https://eng-cs.syr.edu/), [Syracuse University](https://www.syracuse.edu/), Syracuse, New York, USA.
+* Jan 1992- Aug 1994, <i>Research and Teaching Assistant</i>, 
+  * [Department of Computer Science](https://www.cs.hacettepe.edu.tr/index.html),[Hacettepe University](https://www.hacettepe.edu.tr/english/), Ankara, Turkey.
 
- 
 
 * Fall 2015: Research Assistant
   * Github University
