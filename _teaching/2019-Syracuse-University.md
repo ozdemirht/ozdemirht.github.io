@@ -8,4 +8,4 @@ date: Sep 2019 - May 2020
 location: "Syracuse, New York, USA"
 ---
 
-Syracuse University, College of Engineering and Computer Science, Sep 2019 - May 2020
+[Syracuse University](https://www.syracuse.edu/), [College of Engineering and Computer Science](https://eng-cs.syr.edu/), Sep 2019 - May 2020
