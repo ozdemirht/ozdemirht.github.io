@@ -8,4 +8,4 @@ date: Aug 1996 - May 1997
 location: "Syracuse, New York, USA"
 ---
 
-Syracuse University, College of Engineering and Computer Science, Aug 1996 - May 1997
+[Syracuse University](https://www.syracuse.edu/), [College of Engineering and Computer Science](https://eng-cs.syr.edu/), Aug 1996 - May 1997

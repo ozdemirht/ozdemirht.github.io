@@ -8,4 +8,4 @@ date: May 1997 - October 1999
 location: "Syracuse, New York, USA"
 ---
 
-NORTHEAST PARALLEL ARCHITECTURE CENTER ([NPAC](https://surface.syr.edu/npac/)), Syracuse University, May 1997 - October 1999
+Northeast Parallel Architecture Center([NPAC](https://surface.syr.edu/npac/)), [Syracuse University](https://www.syracuse.edu/), May 1997 - October 1999
