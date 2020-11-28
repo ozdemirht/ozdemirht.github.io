@@ -26,7 +26,7 @@ Work experience
   * Northeast Parallel Architecture Center([NPAC](https://surface.syr.edu/npac/)), [Syracuse University](https://www.syracuse.edu/), Syracuse, New York, USA.
 * August 1996 - May 1997, <i>Teaching Assistant</i>,  
   * [College of Engineering and Computer Science](https://eng-cs.syr.edu/), [Syracuse University](https://www.syracuse.edu/), Syracuse, New York, USA.
-* Jan 1992- Aug 1994, <i>Research and Teaching Assistant</i>, 
+* Jan 1992 - Aug 1994, <i>Research and Teaching Assistant</i>, 
   * [Department of Computer Science](https://www.cs.hacettepe.edu.tr/index.html),[Hacettepe University](https://www.hacettepe.edu.tr/english/), Ankara, Turkey.
 
 Teaching
