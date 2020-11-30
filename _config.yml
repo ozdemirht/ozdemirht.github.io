@@ -51,7 +51,7 @@ atom_feed:
 
 # SEO Related
 google_site_verification : google96fe73397b5b20a8.html
-bing_site_verification   :
+bing_site_verification   : BingSiteAuth.xml
 alexa_site_verification  :
 yandex_site_verification :
 
