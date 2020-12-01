@@ -67,7 +67,7 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person # Person or Organization (defaults to Person)
-  name                   : "Tim Ozdemir" # If the user or organization name differs from the site's name
+  name                   : 'Tim Ozdemir' # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
         - "https://www.hackerrank.com/profile/ozdtm2019"
         - "https://www.linkedin.com/in/hasantimucinozdemir/"
@@ -194,6 +194,9 @@ collections:
   patents:
     output: true
     permalink: /:collection/:path/
+  reports:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -255,6 +258,15 @@ defaults:
   - scope:
       path: ""
       type: patents
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _reports
+  - scope:
+      path: ""
+      type: reports
     values:
       layout: single
       author_profile: true
