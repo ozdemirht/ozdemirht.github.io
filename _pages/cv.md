@@ -70,7 +70,7 @@ Patents
   {% endfor %}</ol>
   
 
-Service and leadership
+Service and leadership 
 ======
 * (2018, 2013) Served on the IEEE Admission and Advancement Committee in June 2018 and November 2013. 
 * (2019, 2018, 2016, 2015) Reviewer for a workshop in ACM Knowledge Discovery and Data Mining (KDD).
