@@ -2,6 +2,7 @@
 layout: archive
 title: "Sitemap"
 permalink: /sitemap/
+excerpt: "Tim Ozdemir"
 author_profile: true
 ---
 
