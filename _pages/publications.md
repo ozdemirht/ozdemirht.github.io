@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+excerpt: "Tim Ozdemir"
 ---
 
 {% if author.googlescholar %}

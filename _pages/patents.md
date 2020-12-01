@@ -4,6 +4,7 @@ layout: archive
 permalink: /patents/
 collection: patents
 author_profile: true
+excerpt: "Tim Ozdemir"
 ---
 
 {% if author.googlescholar %}
