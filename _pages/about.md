@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Introduction: Tim Ozdemir, PhD, PMP"
-excerpt: "About me"
+excerpt: "Tim Ozdemir"
 author_profile: true
 redirect_from: 
   - /about/
