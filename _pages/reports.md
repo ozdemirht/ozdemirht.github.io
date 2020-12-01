@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Reports"
+permalink: /reports/
 author_profile: true
 excerpt: "Tim Ozdemir"
 ---
