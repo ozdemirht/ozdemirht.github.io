@@ -84,6 +84,12 @@ Affiliations and Memberships
 - Member of [IEEE](https://www.ieee.org/) (ieee.org), [ACM](https://www.acm.org) (acm.org), [NYAS](https://www.nyas.org) (nyas.org), and [PMI](https://www.pmi.org/) (pmi.org). 
 
 
+Reports
+=======
+  <ol>{% for post in site.reports %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ol>
+
 Skills
 ======
 * Skill 1
