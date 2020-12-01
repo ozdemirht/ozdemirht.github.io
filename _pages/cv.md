@@ -75,7 +75,7 @@ Service and leadership
 * (2018, 2013) Served on the IEEE Admission and Advancement Committee in June 2018 and November 2013. 
 * (2019, 2018, 2016, 2015) Reviewer for a workshop in ACM Knowledge Discovery and Data Mining (KDD).
 * (2017) Reviewer for International Journal of Data Science and Analytics (for ACM KDD workshop). (2017)
-* (2014,2015) Reviewer for ITS 2014 and ITS 2015 Conferences.
+* (2015, 2014) Reviewer for ITS 2014 and ITS 2015 Conferences.
 * (1998) Elected Graduate Student Representative on College Tenure and Promotions Committee (Fall 1998 and Spring 1999)
 
 
