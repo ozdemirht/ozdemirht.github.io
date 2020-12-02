@@ -38,8 +38,8 @@ Teaching
 
 Awards
 ======
-* ONVIF Distinguished Service, 2018 
-* ONVIF 2014
+* [ONVIF](https://www.onvif.org/) Distinguished Service, 2018 
+* [ONVIF](https://www.onvif.org/) 2014 Award for contributions to [ONVIF Standards](https://www.onvif.org/profiles/)
 * Panasonic Corporation IP Commendation, 2014
 * Received ACM Senior Member award recognizing work & research contributions, 2013
 * Received IEEE Senior Member award recognizing work & research contributions, 2013
