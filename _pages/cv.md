@@ -41,8 +41,8 @@ Awards
 * [ONVIF](https://www.onvif.org/) Distinguished Service, 2018 
 * [ONVIF](https://www.onvif.org/) 2014 Award for contributions to [ONVIF Standards](https://www.onvif.org/profiles/)
 * Panasonic Corporation IP Commendation, 2014
-* Received ACM Senior Member award recognizing work & research contributions, 2013
-* Received IEEE Senior Member award recognizing work & research contributions, 2013
+* Received [ACM Senior Member](https://awards.acm.org/senior-members) award recognizing work & research contributions, 2013
+* Received [IEEE Senior Member](https://www.ieee.org/membership/senior/) award recognizing work & research contributions, 2013
 * Panasonic Corporation of North America (PNA) award, 2013
 
 Certifications  
