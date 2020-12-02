@@ -38,8 +38,8 @@ Teaching
 
 Awards
 ======
-* [ONVIF](https://www.onvif.org/) Distinguished Service, 2018 
-* [ONVIF](https://www.onvif.org/) 2014 Award for contributions to [ONVIF Standards](https://www.onvif.org/profiles/)
+* [ONVIF](https://www.onvif.org/) Distinguished Service award, 2018 
+* [ONVIF](https://www.onvif.org/) 2014 Award for contributions to [ONVIF Standards](https://www.onvif.org/profiles/), 2014
 * Panasonic Corporation IP Commendation, 2014
 * Received [ACM Senior Member](https://awards.acm.org/senior-members) award recognizing work & research contributions, 2013
 * Received [IEEE Senior Member](https://www.ieee.org/membership/senior/) award recognizing work & research contributions, 2013
@@ -47,14 +47,14 @@ Awards
 
 Certifications  
 ======
-* [PMI Project Management Professional (PMP)](https://www.pmi.org/) (2018-2024), 
-* [PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/) (2020-2023), 
-* [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) (2020-2023), 
-* Scrum Product Owner (2018-2021), 
-* Scrum Master  (2018-2021), 
-* [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2021),
-* [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (2019),
-* [Rutgers Business School](https://www.business.rutgers.edu/executive-education) <i>Mini-MBA for Engineers and Technology Managers</i> (2016).
+* [PMI Project Management Professional (PMP)](https://www.pmi.org/) (2018-2024)
+* [PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/) (2020-2023) 
+* [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) (2020-2023)
+* Scrum Product Owner (2018-2021)
+* Scrum Master  (2018-2021)
+* [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2021)
+* [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (2019)
+* [Rutgers Business School](https://www.business.rutgers.edu/executive-education) <i>Mini-MBA for Engineers and Technology Managers</i> (2016)
 
  
 Publications
