@@ -1,11 +1,12 @@
 ---
-title: "Instructor - Part-time (2019, 2020)"
+title: "Lecture for Software Engineering Methodologies"
 collection: teaching
 type: "Graduate Courses"
 permalink: /teaching/2019-Syracuse-University
 venue: "Syracuse University, College of Engineering and Computer Science"
-date: Sep 2019 - May 2020
+date: March 2019
 location: "Syracuse, New York, USA"
 ---
 
-[Syracuse University](https://www.syracuse.edu/), [College of Engineering and Computer Science](https://eng-cs.syr.edu/), Sep 2019 - May 2020
+Lecture for Software Engineering Methodologies
+[Syracuse University](https://www.syracuse.edu/), [College of Engineering and Computer Science](https://eng-cs.syr.edu/), March 2019.
