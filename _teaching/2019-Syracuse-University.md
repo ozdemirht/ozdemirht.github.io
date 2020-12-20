@@ -8,5 +8,5 @@ date: March 2019
 location: "Syracuse, New York, USA"
 ---
 
-Lecture for Software Engineering Methodologies,
+Lecture for Software Engineering Methodologies, <br>
 [Syracuse University](https://www.syracuse.edu/), [College of Engineering and Computer Science](https://eng-cs.syr.edu/), March 2019.
