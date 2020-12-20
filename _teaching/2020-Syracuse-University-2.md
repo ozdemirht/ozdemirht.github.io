@@ -1,7 +1,7 @@
 ---
 title: "Lecture for CIS 454 Software Implementation (2020)"
 collection: teaching
-type: "Graduate Courses"
+type: "Undergraduate Course"
 permalink: /teaching/2020-Syracuse-University-2
 venue: "Syracuse University, College of Engineering and Computer Science"
 date: April 2020
