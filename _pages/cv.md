@@ -54,9 +54,9 @@ Certifications
 * Scrum Master  (2018-2021)
 * [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2021)
 * [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (2019)
-* [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in Management and Leadership (2017)
-* [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in Strategy and Innovation (2017)
-* [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in Technology, Operations, and Value Chain Management (2017)
+* [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in <i>Management and Leadership</i> (2017)
+* [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in <i>Strategy and Innovation</i> (2017)
+* [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in <i>Technology, Operations, and Value Chain Management</i> (2017)
 * [Rutgers Business School](https://www.business.rutgers.edu/executive-education) <i>Mini-MBA for Engineers and Technology Managers</i> (2016)
  
 Publications
