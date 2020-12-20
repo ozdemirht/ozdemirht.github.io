@@ -1,5 +1,5 @@
 ---
-title: "Lecture for CIS 454 Software Implementation"
+title: "Lecture for CIS 454 Software Implementation (2020)"
 collection: teaching
 type: "Graduate Courses"
 permalink: /teaching/2020-Syracuse-University-2
