@@ -1,3 +1,5 @@
+header:
+  overlay_color: "#333"
 # main links links
 main:
   - title: "CV"
