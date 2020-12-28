@@ -4,8 +4,8 @@ title: "Introduction: Tim Ozdemir, PhD, PMP"
 excerpt: "Tim Ozdemir"
 author_profile: true
 header:
-  image: /images/photo-nyc-1.jfif
-  teaser: /images/photo-nyc-1.jfif
+  image: /assets/images/photo-nyc-1.jfif
+  teaser: /assets/images/photo-nyc-1.jfif
 redirect_from: 
   - /about/
   - /about.html
