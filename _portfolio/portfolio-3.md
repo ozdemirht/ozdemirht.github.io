@@ -1,6 +1,6 @@
 ---
-title: "Data Science Projects"
-excerpt: "Data Science Projects<br/><img src='/images/data-science-2.jpg'>"
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/photo-nyc-1.jpg'>"
 collection: portfolio
 ---
 
