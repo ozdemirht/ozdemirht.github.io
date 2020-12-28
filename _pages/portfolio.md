@@ -1,9 +1,10 @@
 ---
-layout: archive
+layout: collection
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 entries_layout: grid
+classes: wide
 header:
   overlay_image: Data-Science-BG.jpg  # teaser: photo-nyc-1.jpg
   caption: "Data Engineering and Science"
@@ -11,7 +12,8 @@ header:
 
 {% include base_path %}
 
-<p><a href="https://github.com/ozdemirht/Data-Science/tree/master/matplotlib/ex1/example.ipynb">
+<p>
+<a href="https://github.com/ozdemirht/Data-Science/tree/master/matplotlib/ex1/example.ipynb">
 <img src="/images/matplotlib-1.png" alt="https://ozdemirht.github.io/" width="200" height="250"></br>
 Data Science: Visualization: Matplotlib Example
 </a></p>
