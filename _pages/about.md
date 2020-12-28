@@ -3,6 +3,9 @@ permalink: /
 title: "Introduction: Tim Ozdemir, PhD, PMP"
 excerpt: "Tim Ozdemir"
 author_profile: true
+header:
+  image: /images/photo-nyc-1.jpg
+  teaser: /images/photo-nyc-1.jpg
 redirect_from: 
   - /about/
   - /about.html
