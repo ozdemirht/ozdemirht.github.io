@@ -5,6 +5,7 @@ excerpt: "Tim Ozdemir"
 author_profile: true
 header:
   overlay_image: photo-nyc-2.jpg  # teaser: photo-nyc-1.jpg
+  caption: "New York, New York"
 redirect_from: 
   - /about/
   - /about.html
