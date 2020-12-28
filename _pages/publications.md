@@ -6,7 +6,7 @@ author_profile: true
 excerpt: "Tim Ozdemir"
 header:
   overlay_image: research-and-development.jpg #Data-Science-BG.jpg  # teaser: photo-nyc-1.jpg
-  caption: "Publications, Papers"
+  caption: "Publications, Papers" 
 
 ---
 
