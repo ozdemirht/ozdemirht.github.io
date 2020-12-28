@@ -4,7 +4,7 @@ title: "Introduction: Tim Ozdemir, PhD, PMP"
 excerpt: "Tim Ozdemir"
 author_profile: true
 header:
-  overlay_image: photo-nyc-2.jpg  # teaser: photo-nyc-1.jpg
+  overlay_image: Data-Science-BG.jpg  # teaser: photo-nyc-1.jpg
   caption: "New York, New York"
 redirect_from: 
   - /about/
