@@ -6,9 +6,9 @@ author_profile: true
 header:
   overlay_image: data-science-4.jpg #Data-Science-BG.jpg  # teaser: photo-nyc-1.jpg
   caption: "New York, New York"
-  actions:
-    - label: "About"
-	url: "https://www.linkedin.com/in/hasantimucinozdemir"
+#  actions:
+#    - label: "About"
+#	url: "https://www.linkedin.com/in/hasantimucinozdemir"
 redirect_from: 
   - /about/
   - /about.html
