@@ -16,7 +16,7 @@ header:
 <a href="https://github.com/ozdemirht/Data-Science/tree/master/matplotlib/ex1/example.ipynb">
 <img src="/images/matplotlib-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
-Data Science: Visualization: Matplotlib Example
+Data Science: Visualization: Matplotlib Example 
 </p>
 
 
