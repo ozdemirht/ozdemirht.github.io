@@ -5,12 +5,14 @@ collection: portfolio
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
 ﻿# Data Science and Machine Learning Notebooks 
+
 * Visualization
  for Exploratory Data Analysis  
-  * [Matplotlib notebook](./matplotlib/ex1/example.ipynb)
+  * [Matplotlib notebook](https://github.com/ozdemirht/Data-Science/tree/master/matplotlib/ex1/example.ipynb)
  (scatter plot, histogram/kde, box plot)   
-  * [Seaborn notebook](./seaborn/ex1/example.ipynb)   
+  * [Seaborn notebook](https://github.com/ozdemirht/Data-Science/tree/master/seaborn/ex1/example.ipynb)   
  
   * Lightning - http://lightning-viz.org/
   * Bokeh - https://bokeh.pydata.org/
