@@ -5,6 +5,9 @@ permalink: /patents/
 collection: patents
 author_profile: true
 excerpt: "Tim Ozdemir"
+header:
+  overlay_image: patent.jpg #  # teaser: photo-nyc-1.jpg
+  caption: "Patents, USPTO"
 ---
 
 {% if author.googlescholar %}
