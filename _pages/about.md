@@ -18,35 +18,36 @@ author_profile: true
 Experienced Technologist with proven success record spanning over 20 years in both business and academia. He is a <i>Software Engineering Manager: Data and Analytics</i> in [IAC](https://www.iac.com/brands)'s Mosaic Group. 
 
 <table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#f3f2f7">   
-<tr>
-<td style="white-space:wrap;text-align:center;vertical-align:bottom"> 
-<a href="https://ozdemirht.github.io/publications/">
-<img src="/images/research-and-development.jpg" alt="https://ozdemirht.github.io/" width="200" height="250">
-</a> 
-<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:18px">Publications</span>  
-</td>
 
+<tr>
 <td style="white-space:wrap;text-align:center;vertical-align:bottom">
 <a href="https://ozdemirht.github.io/patents/">
 <img src="/images/patent.jpg" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
 <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:18px">Patents</span>
 </td>
+
+<td style="white-space:wrap;text-align:center;vertical-align:bottom"> 
+<a href="https://ozdemirht.github.io/publications/">
+<img src="/images/research-and-development.jpg" alt="https://ozdemirht.github.io/" width="200" height="250">
+</a> 
+<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:18px">Publications</span>  
+</td>
 </tr>
 
-<tr>
-<td style="white-space:wrap;text-align:center;vertical-align:bottom">
-<a href="https://ozdemirht.github.io/cv/">
-<img src="/images/cv-resume-photo-2.jpg" alt="https://ozdemirht.github.io/" width="80" height="100">
-</a>
-<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:18px">CV</span>    
-</td>
-  
+<tr> 
 <td style="white-space:wrap;text-align:center;vertical-align:bottom">
 <a href="https://ozdemirht.github.io/portfolio/"> 
 <img src="/images/de-concept.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
 <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:18px">Portfolio</span>  
+</td>
+
+<td style="white-space:wrap;text-align:center;vertical-align:bottom">
+<a href="https://ozdemirht.github.io/cv/">
+<img src="/images/cv-resume-photo-2.jpg" alt="https://ozdemirht.github.io/" width="80" height="100">
+</a>
+<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:18px">CV</span>    
 </td>
 </tr> 
 
