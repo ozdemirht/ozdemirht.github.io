@@ -2,7 +2,6 @@
 permalink: /
 title: "Tim Ozdemir, PhD, PMP"
 excerpt: "Tim Ozdemir"
-author_profile: true
 header:
   overlay_image: data-science-4.jpg #Data-Science-BG.jpg  # teaser: photo-nyc-1.jpg
   caption: "New York, New York"
@@ -12,6 +11,7 @@ header:
 redirect_from: 
   - /about/
   - /about.html
+author_profile: true
 ---
 
 
