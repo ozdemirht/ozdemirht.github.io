@@ -41,7 +41,7 @@ author_profile: true
 </a>
 <br> CV    
 </td>
- 
+  
 <td style="white-space:wrap;text-align:center">
 <a href="https://ozdemirht.github.io/portfolio/">
 <img src="/images/de-concept.png" alt="https://ozdemirht.github.io/" width="200" height="250">
