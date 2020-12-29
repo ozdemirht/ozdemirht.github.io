@@ -50,7 +50,7 @@ author_profile: true
 </td>
 </tr> 
 
-</table>
+</table> 
 
 Education
 ------
