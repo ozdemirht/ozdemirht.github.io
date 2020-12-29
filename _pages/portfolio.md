@@ -36,25 +36,50 @@ Data Science
 </tr>
 </table>
 
+<p>
+</p>
+
 <table style="border: none;margin: 0px auto;">
 <tr>
- <th> Prediction</th> <th> </th>
+ <th>Dimension Reduction</th> <th> </th>
 </tr>
 
 <tr>
-<td>
-<a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/pca/ex1/example.ipynb">
-<img src="/images/pca-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
-</a>
-<br> Classification methods (Logistic Regression, Decision Tree, Random Forest) after applying PCA. 
-</td>
+ <td>
+  <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/pca/ex1/example.ipynb">
+   <img src="/images/pca-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
+  </a>
+  <br> Classification methods (Logistic Regression, Decision Tree, Random Forest) after applying PCA. 
+ </td>
 
-<td>
-<a href="https://github.com/ozdemirht/Data-Science/blob/master/seaborn/ex1/example.ipynb">
-<img src="/images/seaborn.png" alt="https://ozdemirht.github.io/" width="200" height="250">
-</a>
-<br> Seaborn Example 
-</td>
+ <td>
+  <a href="https://github.com/ozdemirht/Data-Science/blob/master/seaborn/ex1/example.ipynb">
+   <img src="/images/pca-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
+  </a>
+  <br>  
+ </td>
+</tr>
+</table>
+
+<table style="border: none;margin: 0px auto;">
+<tr>
+ <th>Clustering</th> <th> </th>
+</tr>
+
+<tr>
+ <td>
+  <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/clustering/ex1/example.ipynb">
+   <img src="/images/kmeans-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
+  </a>
+  <br> K-means 
+ </td>
+
+ <td>
+  <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/clustering/ex1/example.ipynb">
+   <img src="/images/kmeans-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
+  </a>
+  <br>  
+ </td>
 </tr>
 </table>
 
