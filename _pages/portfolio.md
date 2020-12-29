@@ -34,12 +34,7 @@ Data Science
 <br> Seaborn Example 
 </td>
 </tr>
-</table>
 
-<p>
-</p>
-
-<table style="border: none;margin: 0px auto;">
 <tr>
  <th>Dimension Reduction</th> <th>Clustering</th>
 </tr>
