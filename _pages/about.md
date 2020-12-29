@@ -28,7 +28,7 @@ author_profile: true
 
 <td>
 <a href="https://ozdemirht.github.io/patents/">
-<img src="/images/patent.png" alt="https://ozdemirht.github.io/" width="200" height="250">
+<img src="/images/patent.jpg" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
 <br> Patents 
 </td>
@@ -37,7 +37,7 @@ author_profile: true
 <tr>
 <td>
 <a href="https://ozdemirht.github.io/cv/">
-<img src="/images/de-cassandra.jpg" alt="https://ozdemirht.github.io/" width="200" height="250">
+<img src="/images/cv-resume-photo.jpg" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
 <br> CV    
 </td>
