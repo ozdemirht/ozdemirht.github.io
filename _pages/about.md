@@ -17,7 +17,7 @@ author_profile: true
 
 Experienced Technologist with proven success record spanning over 20 years in both business and academia. He is a <i>Software Engineering Manager: Data and Analytics</i> in [IAC](https://www.iac.com/brands)'s Mosaic Group. 
 
-<table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#fcd303">   
+<table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#c0b8f5">   
 <tr>
 <td style="white-space:wrap;text-align:center;vertical-align:bottom">
 <a href="https://ozdemirht.github.io/publications/">
