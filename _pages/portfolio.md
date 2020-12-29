@@ -11,19 +11,23 @@ header:
 
 {% include base_path %}
 
-<p>
+<table>
+<tr>
+<td>
 <a href="https://github.com/ozdemirht/Data-Science/tree/master/matplotlib/ex1/example.ipynb">
 <img src="/images/matplotlib-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
 Data Science: Visualization: Matplotlib Example 
-</p>
+</td>
 
-<p>
+<td>
 <a href="https://github.com/ozdemirht/Data-Science/blob/master/seaborn/ex1/example.ipynb">
 <img src="/images/seaborn.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
 Data Science: Visualization: Seaborn Example 
-</p>
+</td>
+</tr>
+</table>
 
 
 {% for post in site.portfolio %}
