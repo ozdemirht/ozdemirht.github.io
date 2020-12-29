@@ -16,6 +16,43 @@ author_profile: true
 
 
 [Tim](https://www.linkedin.com/in/hasantimucinozdemir) is Experienced Technologist with proven success record spanning over 20 years in both business and academia. He is a <i>Software Engineering Manager: Data and Analytics</i> in [IAC](https://www.iac.com/brands)'s Mosaic Group. 
+
+<table style="border: none;margin: 0px auto;">
+<tr>
+<td>
+<a href="https://ozdemirht.github.io/publications/">
+<img src="/images/research-and-development.jpg" alt="https://ozdemirht.github.io/" width="200" height="250">
+</a>
+<br> Publications  
+</td>
+
+<td>
+<a href="https://ozdemirht.github.io/patents/">
+<img src="/images/patent.png" alt="https://ozdemirht.github.io/" width="200" height="250">
+</a>
+<br> Patents 
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://ozdemirht.github.io/cv/">
+<img src="/images/de-cassandra.jpg" alt="https://ozdemirht.github.io/" width="200" height="250">
+</a>
+<br> CV    
+</td>
+ 
+<td>
+<a href="https://ozdemirht.github.io/portfolio/">
+<img src="/images/de-concept.png" alt="https://ozdemirht.github.io/" width="200" height="250">
+</a>
+<br> Portfolio 
+</td>
+</tr> 
+
+</table>
+
+
 - Earned Ph.D. and MS in [Computer and Information Science](https://eng-cs.syr.edu/) from [Syracuse University](https://www.syracuse.edu/), Syracuse, New York, USA. 
 - Earned <i>Advanced Certificate for Executives (ACE) in Management, Innovation, and Technology</i> (2018) from [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/). 
   - Executive Certificate in Management and Leadership (2017)
