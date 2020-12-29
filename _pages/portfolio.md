@@ -18,6 +18,13 @@ header:
 Data Science: Visualization: Matplotlib Example 
 </p>
 
+<p>
+<a href="https://github.com/ozdemirht/Data-Science/blob/master/seaborn/ex1/example.ipynb">
+<img src="/images/seaborn.png" alt="https://ozdemirht.github.io/" width="200" height="250">
+</a>
+Data Science: Visualization: Matplotlib Example 
+</p>
+
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
