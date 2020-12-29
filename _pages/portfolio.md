@@ -24,14 +24,14 @@ Data Science
 <a href="https://github.com/ozdemirht/Data-Science/tree/master/matplotlib/ex1/example.ipynb">
 <img src="/images/matplotlib-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
-<br> Data Science: Visualization: Matplotlib Example 
+<br> Matplotlib Example 
 </td>
 
 <td>
 <a href="https://github.com/ozdemirht/Data-Science/blob/master/seaborn/ex1/example.ipynb">
 <img src="/images/seaborn.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
-<br> Data Science: Visualization: Seaborn Example 
+<br> Seaborn Example 
 </td>
 </tr>
 </table>
