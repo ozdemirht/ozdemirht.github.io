@@ -35,7 +35,7 @@ Data Science
 </td>
 </tr>
 
-<tr>
+<tr>  
  <th>Dimension Reduction</th> <th>Clustering</th>
 </tr>
 
