@@ -4,7 +4,7 @@ excerpt: "<img src='/images/de-concept.png'>"
 collection: portfolio
 ---
 
-Projects from Data Engineering program
+Projects from Data Engineering program 
 
 * <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/capstone/Capstone%20Project%20Report.ipynb">   
 Capstone Project (Apache Spark, Matplotlib, pyspark)</a>
