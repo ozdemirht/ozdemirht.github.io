@@ -24,14 +24,14 @@ Data Science
 <a href="https://github.com/ozdemirht/Data-Science/tree/master/matplotlib/ex1/example.ipynb">
 <img src="/images/matplotlib-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
-<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:18px"><a href="https://matplotlib.org/contents.html">Matplotlib</a> Example </span>
+<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:16px"><a href="https://matplotlib.org/contents.html">Matplotlib</a> Example </span>
 </td>
 
 <td style="white-space:wrap;text-align:center;vertical-align:bottom">
 <a href="https://github.com/ozdemirht/Data-Science/blob/master/seaborn/ex1/example.ipynb">
 <img src="/images/seaborn.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
-<br> <a href="https://seaborn.pydata.org/">Seaborn</a> Example 
+<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:16px"><a href="https://seaborn.pydata.org/">Seaborn</a> Example</span> 
 </td>
 </tr>
 
@@ -44,14 +44,14 @@ Data Science
   <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/pca/ex1/example.ipynb">
    <img src="/images/pca-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
   </a>
-  <br> Classification methods (Logistic Regression, Decision Tree, Random Forest) after applying PCA. 
+  <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:16px">Classification methods (Logistic Regression, Decision Tree, Random Forest) after applying PCA</span> 
  </td>
 
  <td style="white-space:wrap;text-align:center;vertical-align:bottom">
   <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/clustering/ex1/example.ipynb">
    <img src="/images/kmeans-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
   </a>
-  <br> K-Means (from <a href="https://scikit-learn.org/">Scikit-learn</a> )
+  <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:16px">K-Means (from <a href="https://scikit-learn.org/">Scikit-learn</a> )</span>
  </td>
 </tr>
 
@@ -64,14 +64,14 @@ Data Science
   <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/regression/ex1/example.ipynb">
    <img src="/images/regression-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
   </a>
-  <br> Regression methods (Linear, Ridge, Lasso, ElasticNet, Huber) 
+  <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:16px">Regression methods (Linear, Ridge, Lasso, ElasticNet, Huber)</span> 
  </td>
 
  <td style="white-space:wrap;text-align:center;vertical-align:bottom">
   <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/classification/ex1/example.ipynb">
    <img src="/images/classification-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
   </a>
-  <br>  DNNClassifier, LinearClassifier (from <a href="https://www.tensorflow.org/">TensorFlow</a>)
+  <br>  <span style="font-weight:bold;font-family:verdana;color:blue;font-size:16px">DNNClassifier, LinearClassifier (from <a href="https://www.tensorflow.org/">TensorFlow</a>)</span>
  </td>
 </tr>
 </table>
