@@ -37,7 +37,7 @@ author_profile: true
 <tr>
 <td>
 <a href="https://ozdemirht.github.io/cv/">
-<img src="/images/cv-resume-photo-2.jpg" alt="https://ozdemirht.github.io/" width="200" height="250">
+<img src="/images/cv-resume-photo-2.jpg" alt="https://ozdemirht.github.io/" width="100" height="125">
 </a>
 <br> CV    
 </td>
