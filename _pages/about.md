@@ -19,7 +19,7 @@ Experienced Technologist with proven success record spanning over 20 years in bo
 
 <table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#c0b8f5">   
 <tr>
-<td style="white-space:wrap;text-align:center;vertical-align:bottom">
+<td style="white-space:wrap;text-align:center;vertical-align:bottom"> 
 <a href="https://ozdemirht.github.io/publications/">
 <img src="/images/research-and-development.jpg" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a> 
