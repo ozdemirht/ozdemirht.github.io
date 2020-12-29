@@ -104,7 +104,7 @@ Links to articles in [Medium.com](https://medium.com/@ozdemirtim/) by [Tim Ozdem
 </a> 
 <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Algorithm Interview by Example: Random Selection</span>  
 </td>
-</tr>
+</tr> 
 
 </table> 
 
