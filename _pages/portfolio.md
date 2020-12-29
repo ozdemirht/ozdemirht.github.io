@@ -56,7 +56,7 @@ Data Science
   <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/clustering/ex1/example.ipynb">
    <img src="/images/kmeans-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
   </a>
-  <br> K-means 
+  <br> K-Means (from Scikit-learn )
  </td>
 </tr>
 </table>
