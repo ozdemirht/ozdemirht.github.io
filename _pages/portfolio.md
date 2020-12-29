@@ -14,7 +14,7 @@ header:
 Data Science
 ------
 
-<table style="border: none;">
+<table style="border: none;margin: 0px auto;">
 <tr>
  <th> Visualization</th> <th> </th>
 </tr>
