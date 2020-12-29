@@ -83,6 +83,28 @@ Data Science
 </tr>
 </table>
 
+<table style="border: none;margin: 0px auto;">
+<tr>
+ <th>Regression</th> <th>Classification</th>
+</tr>
+
+<tr>
+ <td>
+  <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/regression/ex1/example.ipynb">
+   <img src="/images/regression-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
+  </a>
+  <br> Regression methods (Linear, Ridge, Lasso, ElasticNet, Huber) 
+ </td>
+
+ <td>
+  <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/classification/ex1/example.ipynb">
+   <img src="/images/classification-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
+  </a>
+  <br>  
+ </td>
+</tr>
+</table>
+
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
