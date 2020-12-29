@@ -30,7 +30,7 @@ Experienced Technologist with proven success record spanning over 20 years in bo
 <a href="https://ozdemirht.github.io/patents/">
 <img src="/images/patent.jpg" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
-<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:18px;vertical-align:bottom;background-color:#fcd303">Patents</span>
+<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:18px">Patents</span>
 </td>
 </tr>
 
