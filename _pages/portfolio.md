@@ -24,7 +24,7 @@ Data Science
 <a href="https://github.com/ozdemirht/Data-Science/tree/master/matplotlib/ex1/example.ipynb">
 <img src="/images/matplotlib-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
-<br> <a href="https://matplotlib.org/contents.html">Matplotlib</a> Example 
+<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:18px"><a href="https://matplotlib.org/contents.html">Matplotlib</a> Example </span>
 </td>
 
 <td style="white-space:wrap;text-align:center;vertical-align:bottom">
@@ -104,7 +104,7 @@ Data Engineering
 <br> NoSQL Apache Cassandra    
 </td>
  
-<td style="white-space:wrap;text-align:center;vertical-align:bottom">
+<td style="white-space:wrap;text-align:center;vertical-align:bottom"> 
 <a href="https://github.com/ozdemirht/Data-Enginering/tree/master/Project-4">
 <img src="/images/data-science-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
