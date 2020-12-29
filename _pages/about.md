@@ -46,7 +46,7 @@ Experienced Technologist with proven success record spanning over 20 years in bo
 <a href="https://ozdemirht.github.io/portfolio/">
 <img src="/images/de-concept.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
-<br> <b>Portfolio</b> 
+<br> <b>Portfolio</b>  
 </td>
 </tr> 
 
