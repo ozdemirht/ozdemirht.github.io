@@ -37,7 +37,7 @@ Experienced Technologist with proven success record spanning over 20 years in bo
 <tr>
 <td style="white-space:wrap;text-align:center;vertical-align:bottom">
 <a href="https://ozdemirht.github.io/cv/">
-<img src="/images/cv-resume-photo-2.jpg" alt="https://ozdemirht.github.io/" width="100" height="125">
+<img src="/images/cv-resume-photo-2.jpg" alt="https://ozdemirht.github.io/" width="80" height="100">
 </a>
 <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:18px">CV</span>    
 </td>
