@@ -23,14 +23,14 @@ Experienced Technologist with proven success record spanning over 20 years in bo
 <a href="https://ozdemirht.github.io/publications/">
 <img src="/images/research-and-development.jpg" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
-<br> Publications  
+<br> <b>Publications</b>  
 </td>
 
 <td style="white-space:wrap;text-align:center">
 <a href="https://ozdemirht.github.io/patents/">
 <img src="/images/patent.jpg" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
-<br> Patents 
+<br> <b>Patents</b> 
 </td>
 </tr>
 
@@ -39,14 +39,14 @@ Experienced Technologist with proven success record spanning over 20 years in bo
 <a href="https://ozdemirht.github.io/cv/">
 <img src="/images/cv-resume-photo-2.jpg" alt="https://ozdemirht.github.io/" width="100" height="125">
 </a>
-<br> CV    
+<br> <b>CV</b>    
 </td>
   
 <td style="white-space:wrap;text-align:center">
 <a href="https://ozdemirht.github.io/portfolio/">
 <img src="/images/de-concept.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
-<br> Portfolio 
+<br> <b>Portfolio</b> 
 </td>
 </tr> 
 
