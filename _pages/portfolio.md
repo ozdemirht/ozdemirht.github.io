@@ -4,7 +4,7 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 entries_layout: grid
-classes: wide
+# classes: wide
 header:
   overlay_image: Data-Science-BG.jpg  # teaser: photo-nyc-1.jpg
   caption: "Data Engineering and Science"
