@@ -11,7 +11,14 @@ header:
 
 {% include base_path %}
 
+Data Science
+------
+
 <table>
+<tr>
+ <th> Visualization</th> <th> </th>
+</tr>
+
 <tr>
 <td>
 <a href="https://github.com/ozdemirht/Data-Science/tree/master/matplotlib/ex1/example.ipynb">
