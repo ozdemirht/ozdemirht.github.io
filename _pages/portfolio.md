@@ -103,7 +103,7 @@ Data Engineering
 </a>
 <br> NoSQL Appache Cassandra    
 </td>
-
+ 
 <td>
 <a href="https://github.com/ozdemirht/Data-Enginering/tree/master/Project-4">
 <img src="/images/data-science-1.jpg" alt="https://ozdemirht.github.io/" width="200" height="250">
