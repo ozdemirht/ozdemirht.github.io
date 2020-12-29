@@ -106,7 +106,7 @@ Data Engineering
  
 <td style="white-space:wrap;text-align:center;vertical-align:bottom"> 
 <a href="https://github.com/ozdemirht/Data-Enginering/tree/master/Project-4">
-<img src="/images/data-science-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
+<img src="/images/data-science-1.png" alt="https://ozdemirht.github.io/" width="200" height="250"> 
 </a>
 <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Project (Star Schema, AWS Redshift, AWS S3, and Python)</span> 
 </td>

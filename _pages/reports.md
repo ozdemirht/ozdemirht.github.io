@@ -4,6 +4,10 @@ title: "Reports"
 permalink: /reports/
 author_profile: true
 excerpt: "Tim Ozdemir"
+header:
+  overlay_image: research-report.jpg  # teaser: photo-nyc-1.jpg
+  caption: "Research Reports, SU"
+
 ---
 
 {% if author.googlescholar %}
