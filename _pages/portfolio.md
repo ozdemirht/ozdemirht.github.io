@@ -59,11 +59,7 @@ Data Science
   <br> K-Means (from Scikit-learn )
  </td>
 </tr>
-</table>
 
-<p></p>
-
-<table style="border: none;margin: 0px auto;">
 <tr>
  <th>Regression</th> <th>Classification</th>
 </tr>
