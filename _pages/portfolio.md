@@ -96,6 +96,22 @@ Data Engineering
 </td>
 </tr>
 
+<tr>
+<td>
+<a href="https://github.com/ozdemirht/Data-Enginering/blob/master/project-2%20(Apache%20Cassandra)/Project_1B_%20Project.ipynb">
+<img src="/images/de-cassandra.jpg" alt="https://ozdemirht.github.io/" width="200" height="250">
+</a>
+<br> NoSQL Appache Cassandra   
+</td>
+
+<td>
+<a href="https://github.com/ozdemirht/Data-Enginering/tree/master/Project-4">
+<img src="/images/de-erd-2.png" alt="https://ozdemirht.github.io/" width="200" height="250">
+</a>
+<br> Project (Star Schema, AWS Redshift, AWS S3, and Python) 
+</td>
+</tr>
+
 </table>
 
 
