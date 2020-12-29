@@ -71,7 +71,7 @@ Data Science
   <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/classification/ex1/example.ipynb">
    <img src="/images/classification-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
   </a>
-  <br>  <span style="font-weight:bold;font-family:verdana;color:blue;font-size:16px">DNNClassifier, LinearClassifier (from <a href="https://www.tensorflow.org/">TensorFlow</a>)</span>
+  <br><span style="font-weight:bold;font-family:verdana;color:blue;font-size:16px">DNNClassifier, LinearClassifier (from <a href="https://www.tensorflow.org/">TensorFlow</a>)</span>
  </td>
 </tr>
 </table>
@@ -85,7 +85,7 @@ Data Engineering
 <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/capstone/Capstone%20Project%20Report.ipynb">
 <img src="/images/de-erd-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
-<br> Project (Apache Spark, Matplotlib, pyspark)  
+<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:16px">Project (Apache Spark, Matplotlib, pyspark)</span>  
 </td>
 
 <td style="white-space:wrap;text-align:center;vertical-align:bottom">
