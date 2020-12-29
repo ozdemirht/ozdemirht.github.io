@@ -110,7 +110,7 @@ Data Engineering
 </a>
 <br> Project (Star Schema, AWS Redshift, AWS S3, and Python) 
 </td>
-</tr>
+</tr> 
 
 </table>
 
