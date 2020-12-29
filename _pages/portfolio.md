@@ -101,7 +101,7 @@ Data Engineering
 <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/project-2%20(Apache%20Cassandra)/Project_1B_%20Project.ipynb">
 <img src="/images/de-cassandra.jpg" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
-<br> NoSQL Appache Cassandra    
+<br> NoSQL Apache Cassandra    
 </td>
  
 <td>
