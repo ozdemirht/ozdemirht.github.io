@@ -16,7 +16,7 @@ Data Science
 
 <table style="border: none;margin: 0px auto;">
 <tr>
- <th> Visualization</th> <th> </th>
+ <th> Visualization (Exploratory Data Analysis)</th> <th> </th>
 </tr>
 
 <tr>
