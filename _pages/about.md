@@ -85,24 +85,20 @@ Articles on [Medium.com](http://medium.com)
 ======
 Links to articles in [Medium.com](https://medium.com/@ozdemirtim/) by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
 
-1. [Algorithm Interview by Example: Process](https://medium.com/@ozdemirtim/algorithm-interview-by-example-process-d12a70202c9f) (2020)
-1. [Algorithm Interview by Example: Random Selection](https://medium.com/@ozdemirtim/algorithm-interview-by-example-random-selection-42bf4aaad9e2) (2020)
-
 <table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#f3f2f7">   
-
 <tr>
 <td style="white-space:wrap;text-align:center;vertical-align:bottom">
 <a href="https://medium.com/@ozdemirtim/algorithm-interview-by-example-process-d12a70202c9f">
 <img src="/images/medium-a1.png" alt="https://medium.com/@ozdemirtim" width="200" height="250"> 
 </a>
-<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Algorithm Interview by Example: Process</span> 
+<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Algorithm Interview by Example: Process (2020)</span> 
 </td>
 
 <td style="white-space:wrap;text-align:center;vertical-align:bottom"> 
 <a href="https://medium.com/@ozdemirtim/algorithm-interview-by-example-random-selection-42bf4aaad9e2">
 <img src="/images/medium-a2.png" alt="https://medium.com/@ozdemirtim" width="200" height="250">
 </a>  
-<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Algorithm Interview by Example: Random Selection</span>  
+<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Algorithm Interview by Example: Random Selection (2020)</span>  
 </td>
 </tr> 
 </table> 
