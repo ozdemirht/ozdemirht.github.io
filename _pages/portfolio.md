@@ -78,6 +78,25 @@ Data Science
 
 Data Engineering
 ------
+<table style="border: none;margin: 0px auto;">
+
+<tr>
+<td>
+<a href="https://github.com/ozdemirht/Data-Enginering/blob/master/capstone/Capstone%20Project%20Report.ipynb">
+<img src="/images/de-erd-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
+</a>
+<br> Project (Apache Spark, Matplotlib, pyspark)  
+</td>
+
+<td>
+<a href="https://github.com/ozdemirht/Data-Enginering/tree/master/Project-4">
+<img src="/images/de-erd-2.png" alt="https://ozdemirht.github.io/" width="200" height="250">
+</a>
+<br> Project (Star Schema, Apache Spark, AWS S3, and Python) 
+</td>
+</tr>
+
+</table>
 
 
 {% for post in site.portfolio %}
