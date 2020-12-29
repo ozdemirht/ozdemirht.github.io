@@ -107,6 +107,7 @@ Links to articles in [Medium.com](https://medium.com/@ozdemirtim/) by [Tim Ozdem
 </tr> 
 
 </table> 
+<p> </p>
 
 Publications/Patents
 ======
