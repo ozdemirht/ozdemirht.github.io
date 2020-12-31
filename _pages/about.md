@@ -68,7 +68,11 @@ Education
   - Scrum Product Owner (2018-2021), 
   - Scrum Master  (2018-2021), 
   - [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2021),
+  - [Cloudera Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)(2020),
+  - [Applied Machine Learning EMC0119 by Columbia Engineering Executive Education](https://online-exec.cvn.columbia.edu/applied-machine-learning) (2019),
+  - [Machine Learning: From Data to Decisions, MIT Professional Education](https://professionalonline1.mit.edu/machine-learning/index.php) (2019),
   - [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (2019),
+  - [Udemy Complete Guide to TensorFlow for Deep Learning with Python]() (2019),
   - [Rutgers Business School](https://www.business.rutgers.edu/executive-education) <i>Mini-MBA for Engineers and Technology Managers</i> (2016).
 - Member of [IEEE](https://www.ieee.org/) (ieee.org), [ACM](https://www.acm.org) (acm.org), [NYAS](https://www.nyas.org) (nyas.org), and [PMI](https://www.pmi.org/) (pmi.org). 
 - <i>Authorized to work in the USA without employment visa sponsorship now and in the future</i>. 
