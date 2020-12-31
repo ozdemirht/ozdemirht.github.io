@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Reports"
+title: "Reports, Thesis"
 permalink: /reports/
 author_profile: true
 excerpt: "Tim Ozdemir"
 header:
   overlay_image: research-report.jpg  # teaser: photo-nyc-1.jpg
-  caption: "Research Reports, SU"
+  caption: "Research Reports, SU, HU"
 
 ---
 
