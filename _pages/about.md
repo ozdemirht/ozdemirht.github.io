@@ -15,7 +15,7 @@ author_profile: true
 ---
 
 
-Experienced Technologist with proven success record spanning over 20 years in both business and academia. He is a <i>Software Engineering Manager: Data and Analytics</i> in [IAC](https://www.iac.com/brands)'s Mosaic Group. 
+Experienced Technologist with proven success record spanning over 20 years in both business and academia. [Tim](https://www.linkedin.com/in/hasantimucinozdemir) is a <i>Software Engineering Manager: Data and Analytics</i> in [IAC](https://www.iac.com/brands)'s Mosaic Group. 
 
 <table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#f3f2f7">   
 
