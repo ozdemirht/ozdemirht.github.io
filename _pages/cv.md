@@ -67,7 +67,7 @@ Publications
   
 Patents
 =======
-  <ol>{% for post in site.patents %}
+  <ol>{% for post in site.patents reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
   
