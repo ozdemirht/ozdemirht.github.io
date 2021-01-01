@@ -11,7 +11,7 @@ header:
 
 redirect_from: 
   - /about/
-  - /about.html 
+  - /about.html  
 author_profile: true
 ---
 
