@@ -2,7 +2,7 @@
 layout: archive
 title: "Reports, Thesis"
 permalink: /reports/
-sort_order: reverse
+sort_order: reverse 
 author_profile: true
 excerpt: "Tim Ozdemir"
 header:
