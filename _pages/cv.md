@@ -88,7 +88,7 @@ Affiliations and Memberships
 
 Reports
 =======
-  <ol>{% for post in site.reports %}
+  <ol>{% for post in site.reports reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
 
