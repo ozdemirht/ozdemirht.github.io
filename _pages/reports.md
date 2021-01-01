@@ -2,7 +2,6 @@
 layout: archive
 title: "Reports, Thesis"
 permalink: /reports/
-sort_order: reverse 
 author_profile: true
 excerpt: "Tim Ozdemir"
 header:
@@ -17,6 +16,6 @@ header:
 
 {% include base_path %}
 
-{% for post in site.reports %}
+{% for post in site.reports reversed %}
   {% include archive-single.html %}
 {% endfor %}
