@@ -51,7 +51,7 @@ Data Science
   <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/clustering/ex1/example.ipynb">
    <img src="/images/kmeans-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
   </a>
-  <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">K-Means (from <a href="https://scikit-learn.org/">Scikit-learn</a> )</span>
+  <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">K-Means (using <a href="https://scikit-learn.org/">Scikit-learn</a> )</span>
  </td>
 </tr>
 
@@ -71,7 +71,7 @@ Data Science
   <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/classification/ex1/example.ipynb">
    <img src="/images/classification-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
   </a>
-  <br><span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">DNNClassifier, LinearClassifier (from <a href="https://www.tensorflow.org/">TensorFlow</a>)</span>
+  <br><span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">DNNClassifier, LinearClassifier (using <a href="https://www.tensorflow.org/">TensorFlow</a>)</span>
  </td>
 </tr>
 </table>
