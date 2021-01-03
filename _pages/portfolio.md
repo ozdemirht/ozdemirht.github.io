@@ -2,7 +2,7 @@
 layout: archive
 title: "Portfolio"
 permalink: /portfolio/
-author_profile: true
+author_profile: true 
 excerpt: "Tim Ozdemir"
 header:
   overlay_image: Data-Science-BG.jpg  # teaser: photo-nyc-1.jpg
