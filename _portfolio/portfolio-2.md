@@ -1,6 +1,6 @@
 ---
 title: "Data Engineering Projects"
-excerpt: "<img src='/images/de-concept.png'>"
+excerpt: "<img src='/images/de-concept.png' width='500' height='300'>"
 collection: portfolio
 ---
 
