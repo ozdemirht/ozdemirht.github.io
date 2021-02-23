@@ -6,7 +6,7 @@ collection: portfolio
 
 Projects from <a href='https://github.com/ozdemirht/Data-Architecture'>Data Architecture</a> program 
 
-* <a href="https://github.com/ozdemirht/Data-Architecture/prj2/Readme.md">Project (Dimensional model, Snowflake, SQL)</a>
+* <a href="https://github.com/ozdemirht/Data-Architecture/blob/main/prj2/Readme.md">Project (Dimensional model, Snowflake, SQL)</a>
 * <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/Project-5/README.md">
 Project with Apache Airflow, AWS S3, and Python</a>
 * <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/Project-4">Project with Star Schema, Apache Spark, AWS S3, and Python</a>
