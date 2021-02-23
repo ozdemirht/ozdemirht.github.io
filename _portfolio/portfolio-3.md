@@ -21,6 +21,7 @@ Data Modelling
 * Data Vault
 * Data Mesh 
 * Lambda and Kappa
+* < a href="https://www.dataversity.net/types-of-data-hub-patterns/#">Data Hub</a>
 
 Tools
 * dbt
