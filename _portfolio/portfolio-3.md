@@ -1,6 +1,6 @@
 ---
 title: "Data Architecture Projects"
-excerpt: "<img src='/images/DA_Foundation.png' width='200' height='200'>"
+excerpt: "<img src='/images/DA_Foundation.png' width='500' height='300'>"
 collection: portfolio
 ---
 
