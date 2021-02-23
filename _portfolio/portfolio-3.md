@@ -15,7 +15,7 @@ Data Modelling
 * Data Mesh 
 * Lambda and Kappa
 * <a href="https://www.dataversity.net/types-of-data-hub-patterns/#" target="_blank">Data Hub</a>
-
+ 
 Tools
 * dbt
 * great_expectations
