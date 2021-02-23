@@ -4,10 +4,9 @@ excerpt: "<img src='/images/DA_Foundation.png' width='500' height='300'>"
 collection: portfolio
 ---
 
-Projects from Data Architecture program 
+Projects from <a href='https://github.com/ozdemirht/Data-Architecture'>Data Architecture</a> program 
 
-* <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/capstone/Capstone%20Project%20Report.ipynb">   
-Capstone Project (Apache Spark, Matplotlib, pyspark)</a>
+* <a href="https://github.com/ozdemirht/Data-Architecture/prj2/Readme.md">Project (Dimensional model, Snowflake, SQL)</a>
 * <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/Project-5/README.md">
 Project with Apache Airflow, AWS S3, and Python</a>
 * <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/Project-4">Project with Star Schema, Apache Spark, AWS S3, and Python</a>
