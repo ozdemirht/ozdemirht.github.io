@@ -10,7 +10,7 @@ Projects from <a href='https://github.com/ozdemirht/Data-Architecture'>Data Arch
  
 Data Modelling
 * Entity Relation Model (ER Diagrams)
-* Dimensional Modeling (Star and Snowflake Scehema)
+* Dimensional Modeling (Star and Snowflake Schema)
 * Data Vault
 * Data Mesh 
 * Lambda and Kappa
