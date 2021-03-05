@@ -21,7 +21,7 @@ Work experience
 ======
 * April 2019 - Present, <i>Software Engineering Manager: Data and Analytics</i>, 
   * [IAC (iac.com)](https://www.iac.com/) [Mosaic Group](https://www.iac.com/brand/mosaic-group), New York, New York, USA.
-* November 1999 - October 2018, <i>Principal Engineer,</i> 
+* November 1999 - October 2018, <i>Lead Scientist/Principal Engineer,</i> 
   * Panasonic R&D Center, Princeton, New Jersey, USA.
 * May 1997 - October 1999, <i>Research Assistant</i>, 
   * Northeast Parallel Architecture Center([NPAC](https://surface.syr.edu/npac/)), [Syracuse University](https://www.syracuse.edu/), Syracuse, New York, USA.
