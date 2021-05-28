@@ -19,7 +19,9 @@ Education
 
 Work experience
 ======
-* April 2019 - Present, <i>Software Engineering Manager: Data and Analytics</i>, 
+* May 2021 - Present, <i>Software Development Manager</i>,
+  * [Amazon](amazon.com), New York, New York, USA.
+* April 2019 - May 2021, <i>Software Engineering Manager: Data and Analytics</i>, 
   * [IAC (iac.com)](https://www.iac.com/) [Mosaic Group](https://www.iac.com/brand/mosaic-group), New York, New York, USA.
 * November 1999 - October 2018, <i>Lead Scientist/Principal Engineer,</i> 
   * Panasonic R&D Center, Princeton, New Jersey, USA.
