@@ -53,7 +53,7 @@ Certifications
 * [PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/) (2020-2023) 
 * [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) (2020-2023)
 * Scrum Product Owner (2018-2021)
-* Scrum Master  (2018-2021)
+* Scrum Master  (2018-2024)
 * [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2021)
 * [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (2019)
 * [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in <i>Management and Leadership</i> (2017)
