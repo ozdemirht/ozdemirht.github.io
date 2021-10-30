@@ -55,7 +55,7 @@ Certifications
 * Scrum Product Owner (2018-2021)
 * Scrum Master  (2018-2024)
 * [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2021)
-* [Harvard Business School Online], Certificate of Specialization in Strategy,2021
+* [Harvard Business School Online](https://online.hbs.edu/subjects/strategy/), Certificate of <i>Specialization in Strategy</i>, 2021
 * [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (2019)
 * [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in <i>Management and Leadership</i> (2017)
 * [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in <i>Strategy and Innovation</i> (2017)
