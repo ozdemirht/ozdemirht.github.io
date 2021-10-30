@@ -69,7 +69,7 @@ Education
   - [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) (2020-2023), 
   - Scrum Product Owner (2018-2021), 
   - Scrum Master  (2018-2021), 
-  - [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2021),
+  - [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2021), 
   - [Harvard Business School Online](https://online.hbs.edu/subjects/strategy/), Certificate of <i>Specialization in Strategy</i>, 2021 
   - [Cloudera Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)(2020),
   - [Applied Machine Learning by Columbia Engineering Executive Education](https://online-exec.cvn.columbia.edu/applied-machine-learning) (2019),
