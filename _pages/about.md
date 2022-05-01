@@ -84,7 +84,7 @@ Accomplishments
 ------
 - Received IEEE Computer Society Distinguished Contributor, 2022 March, IEEE Computer Society 
 - Received [IEEE Senior Member](https://www.ieee.org/membership/senior/) and [ACM Senior Member](https://awards.acm.org/senior-members) awards recognizing work & research contributions (2013)
-- Co-authored 15 US patents & 20+ papers (received 1000+ references, Google Scholar). 
+- Co-authored 15 US patents & 20+ papers (received 1000+ references, Google Scholar).  
 See [Google Scholar](http://scholar.google.com/citations?user=JCFmKSkAAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Hasan_Timucin_Ozdemir)
 - <i>Elected Member</i> of [ONVIF](https://www.onvif.org/) Technical Committee (Nov 2015-Oct 2018). Represented Panasonic.
 - <i>Chairperson</i> of [ONVIF](https://www.onvif.org/) Video Enhancement Working Group (Aug 2009-Oct 2018)
