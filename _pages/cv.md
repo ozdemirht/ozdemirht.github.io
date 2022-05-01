@@ -40,6 +40,7 @@ Teaching
 
 Awards
 ======
+* Received IEEE Computer Society Distinguished Contributor, 2022 March, IEEE Computer Society
 * [ONVIF](https://www.onvif.org/) Distinguished Service award, 2018 
 * [ONVIF](https://www.onvif.org/) 2014 Award for contributions to [ONVIF Standards](https://www.onvif.org/profiles/), 2014
 * Panasonic Corporation IP Commendation, 2014
