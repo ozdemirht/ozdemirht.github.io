@@ -66,10 +66,10 @@ Education
   - Earned BS in [Computer Science](https://www.cs.hacettepe.edu.tr/index.html) from [Hacettepe University](https://www.hacettepe.edu.tr/english/), Ankara, Turkey.
 - Certifications  
   - [PMI Project Management Professional (PMP)](https://www.pmi.org/) (2018-2024), 
-  - [PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/) (2020-2023), 
+  - [PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/) (2020-2023),  
   - [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) (2020-2023), 
   - Scrum Product Owner (2018-2021),
-  - Scrum Master  (2018-2022), 
+  - Scrum Master  (2018-2022),
   - [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2022), 
   - [Harvard Business School Online](https://online.hbs.edu/subjects/strategy/), Certificate of <i>Specialization in Strategy</i>, (2021), 
   - [Udacity Data Streaming Nanodegree](https://www.udacity.com/course/data-streaming-nanodegree--nd029) (2022), 
