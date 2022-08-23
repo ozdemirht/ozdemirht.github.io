@@ -72,6 +72,8 @@ Education
   - Scrum Master  (2018-2022),
   - [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2022), 
   - [Harvard Business School Online](https://online.hbs.edu/subjects/strategy/), Certificate of <i>Specialization in Strategy</i>, (2021), 
+  - [Neo4j Certified Professional](https://graphacademy.neo4j.com/u/ceb58edf-7d23-451b-9a1a-923e8cbf215c/neo4j-certification/#.YwS7TqI3YZw.link) (2022),
+  - [Neo4j Graph Data Science Certification](https://graphacademy.neo4j.com/u/ceb58edf-7d23-451b-9a1a-923e8cbf215c/gds-certification/#.YwS7pyPHyQg.link) (2022),
   - [Udacity Data Streaming Nanodegree](https://www.udacity.com/course/data-streaming-nanodegree--nd029) (2022),  
   - [Udacity Data Architect Nanodegree](https://www.udacity.com/course/data-architect-nanodegree--nd038) (2021),
   - [Cloudera Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)(2020),
