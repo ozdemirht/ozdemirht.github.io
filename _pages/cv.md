@@ -57,7 +57,6 @@ Certifications
 * Scrum Product Owner (2018-2021)
 * Scrum Master  (2018-2024)
 * [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2022)
-* [Harvard Business School Online](https://online.hbs.edu/subjects/strategy/), Certificate of <i>Specialization in Strategy</i>, 2021 
 * [Neo4j Certified Professional](https://graphacademy.neo4j.com/u/ceb58edf-7d23-451b-9a1a-923e8cbf215c/neo4j-certification/#.YwS7TqI3YZw.link) (2022),
 * [Neo4j Graph Data Science Certification](https://graphacademy.neo4j.com/u/ceb58edf-7d23-451b-9a1a-923e8cbf215c/gds-certification/#.YwS7pyPHyQg.link) (2022),
 * [Udacity Data Streaming Nanodegree](https://www.udacity.com/course/data-streaming-nanodegree--nd029) (2022),
@@ -66,6 +65,7 @@ Certifications
 * [Machine Learning: From Data to Decisions, MIT Professional Education](https://professionalonline1.mit.edu/machine-learning/index.php) (2019),
 * [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (2019),
 * [Udemy Complete Guide to TensorFlow for Deep Learning with Python]() (2019),
+* [Harvard Business School Online](https://online.hbs.edu/subjects/strategy/), Certificate of <i>Specialization in Strategy</i> (2021), 
 * [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in <i>Management and Leadership</i> (2017)
 * [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in <i>Strategy and Innovation</i> (2017)
 * [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in <i>Technology, Operations, and Value Chain Management</i> (2017)
