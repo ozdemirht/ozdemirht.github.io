@@ -66,10 +66,10 @@ Certifications
 * [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (2019),
 * [Udemy Complete Guide to TensorFlow for Deep Learning with Python]() (2019),
 * [Harvard Business School Online](https://online.hbs.edu/subjects/strategy/), Certificate of <i>Specialization in Strategy</i> (2021), 
-* [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in <i>Management and Leadership</i> (2017)
-* [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in <i>Strategy and Innovation</i> (2017)
-* [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in <i>Technology, Operations, and Value Chain Management</i> (2017)
-* [Rutgers Business School](https://www.business.rutgers.edu/executive-education) <i>Mini-MBA for Engineers and Technology Managers</i> (2016)
+* [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in <i>Management and Leadership</i> (2017),
+* [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in <i>Strategy and Innovation</i> (2017),
+* [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), Executive Certificate in <i>Technology, Operations, and Value Chain Management</i> (2017),
+* [Rutgers Business School](https://www.business.rutgers.edu/executive-education) <i>Mini-MBA for Engineers and Technology Managers</i> (2016).
  
 Publications
 ======
