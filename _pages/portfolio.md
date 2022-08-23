@@ -121,7 +121,7 @@ Data Engineering
 <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Project Neo4J (REST, SparkJava, Neo4J Graph DB, Cypher QL, Java)</span> 
 </td>
 
-<td style="white-space:wrap;text-align:center;vertical-align:bottom">
+<td style="white-space:wrap;text-align:center;vertical-align:bottom"> 
 <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/project-2%20(Apache%20Cassandra)/Project_1B_%20Project.ipynb">
 <img src="/images/data-science-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>   
