@@ -66,7 +66,7 @@ Education
   - Earned BS in [Computer Science](https://www.cs.hacettepe.edu.tr/index.html) from [Hacettepe University](https://www.hacettepe.edu.tr/english/), Ankara, Turkey.
 - Certifications  
   - [PMI Project Management Professional (PMP)](https://www.pmi.org/) (2018-2024), 
-  - [PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/) (2020-2023),  
+  - [PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/) (2020-2026),  
   - [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) (2020-2023), 
   - Scrum Product Owner (2018-2021),
   - Scrum Master  (2018-2022),
