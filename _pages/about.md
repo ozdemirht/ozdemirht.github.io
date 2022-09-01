@@ -69,7 +69,7 @@ Education
   - [PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/) (2020-2026),  
   - [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) (2020-2023), 
   - Scrum Product Owner (2018-2021),
-  - Scrum Master  (2018-2022),
+  - Scrum Master  (2018-2022), 
   - [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2022),  
   - [Neo4j Certified Professional](https://graphacademy.neo4j.com/u/ceb58edf-7d23-451b-9a1a-923e8cbf215c/neo4j-certification/#.YwS7TqI3YZw.link) (2022),
   - [Neo4j Graph Data Science Certification](https://graphacademy.neo4j.com/u/ceb58edf-7d23-451b-9a1a-923e8cbf215c/gds-certification/#.YwS7pyPHyQg.link) (2022),
