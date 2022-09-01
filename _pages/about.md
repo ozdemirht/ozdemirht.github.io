@@ -75,13 +75,13 @@ Education
   - [Neo4j Graph Data Science Certification](https://graphacademy.neo4j.com/u/ceb58edf-7d23-451b-9a1a-923e8cbf215c/gds-certification/#.YwS7pyPHyQg.link) (2022),
   - [Udacity Data Streaming Nanodegree](https://www.udacity.com/course/data-streaming-nanodegree--nd029) (2022),  
   - [Udacity Data Architect Nanodegree](https://www.udacity.com/course/data-architect-nanodegree--nd038) (2021),
-  - [Cloudera Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)(2020),
+  - [Cloudera Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) (2020),
   - [Applied Machine Learning by Columbia Engineering Executive Education](https://online-exec.cvn.columbia.edu/applied-machine-learning) (2019),
   - [Machine Learning: From Data to Decisions, MIT Professional Education](https://professionalonline1.mit.edu/machine-learning/index.php) (2019),
   - [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (2019),
   - [Udemy Complete Guide to TensorFlow for Deep Learning with Python]() (2019),
   - Harvard ManageMentor [Coaching](https://hbr.org/learning), [Feedback Essentials](https://hbr.org/learning), [Developing Employees](https://hbr.org/learning) (2022).
-  - [Harvard Business School Online](https://online.hbs.edu/subjects/strategy/), Certificate of <i>Specialization in Strategy</i>, (2021), 
+  - [Harvard Business School Online](https://online.hbs.edu/subjects/strategy/), Certificate of <i>Specialization in Strategy</i> (2021), 
   - [Rutgers Business School](https://www.business.rutgers.edu/executive-education) <i>Mini-MBA for Engineers and Technology Managers</i> (2016).
 - Member of [IEEE](https://www.ieee.org/) (ieee.org), [ACM](https://www.acm.org) (acm.org), [NYAS](https://www.nyas.org) (nyas.org), and [PMI](https://www.pmi.org/) (pmi.org). 
 - <i>Authorized to work in the USA without employment visa sponsorship now and in the future</i>. 
