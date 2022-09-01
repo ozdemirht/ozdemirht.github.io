@@ -58,8 +58,8 @@ Experienced Technologist with proven success record spanning over 20 years in bo
 Education
 ------
   - Earned Ph.D. and MS in [Computer and Information Science](https://eng-cs.syr.edu/) from [Syracuse University](https://www.syracuse.edu/), Syracuse, New York, USA. 
-  - Earned <i>Certificate in Business Excellence (CIBE)</i> (2022) from [Columbia Business School](https://execed.business.columbia.edu/certificates) 
-  - Earned <i>Advanced Certificate for Executives (ACE) in Management, Innovation, and Technology</i> (2018) from [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/). 
+  - Earned <i>Certificate in Business Excellence (CIBE)</i> from [Columbia Business School](https://execed.business.columbia.edu/certificates) (2022). 
+  - Earned <i>Advanced Certificate for Executives (ACE) in Management, Innovation, and Technology</i> from [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/) (2018). 
     - Executive Certificate in Management and Leadership (2017)
     - Executive Certificate in Strategy and Innovation (2017)
     - Executive Certificate in Technology, Operations, and Value Chain Management (2017)
@@ -71,7 +71,6 @@ Education
   - Scrum Product Owner (2018-2021),
   - Scrum Master  (2018-2022),
   - [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2022), 
-  - [Harvard Business School Online](https://online.hbs.edu/subjects/strategy/), Certificate of <i>Specialization in Strategy</i>, (2021), 
   - [Neo4j Certified Professional](https://graphacademy.neo4j.com/u/ceb58edf-7d23-451b-9a1a-923e8cbf215c/neo4j-certification/#.YwS7TqI3YZw.link) (2022),
   - [Neo4j Graph Data Science Certification](https://graphacademy.neo4j.com/u/ceb58edf-7d23-451b-9a1a-923e8cbf215c/gds-certification/#.YwS7pyPHyQg.link) (2022),
   - [Udacity Data Streaming Nanodegree](https://www.udacity.com/course/data-streaming-nanodegree--nd029) (2022),  
@@ -81,6 +80,8 @@ Education
   - [Machine Learning: From Data to Decisions, MIT Professional Education](https://professionalonline1.mit.edu/machine-learning/index.php) (2019),
   - [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (2019),
   - [Udemy Complete Guide to TensorFlow for Deep Learning with Python]() (2019),
+  - Harvard ManageMentor [Coaching](https://hbr.org/learning),[Feedback Essentials](https://hbr.org/learning),[Developing Employees](https://hbr.org/learning) (2022).
+  - [Harvard Business School Online](https://online.hbs.edu/subjects/strategy/), Certificate of <i>Specialization in Strategy</i>, (2021), 
   - [Rutgers Business School](https://www.business.rutgers.edu/executive-education) <i>Mini-MBA for Engineers and Technology Managers</i> (2016).
 - Member of [IEEE](https://www.ieee.org/) (ieee.org), [ACM](https://www.acm.org) (acm.org), [NYAS](https://www.nyas.org) (nyas.org), and [PMI](https://www.pmi.org/) (pmi.org). 
 - <i>Authorized to work in the USA without employment visa sponsorship now and in the future</i>. 
