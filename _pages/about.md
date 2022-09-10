@@ -18,7 +18,7 @@ author_profile: true
 
 Experienced Technologist with proven success record spanning over 20 years and +3 years of talent management experience. 
 [Tim](https://www.linkedin.com/in/hasantimucinozdemir) is a <i>Software Engineering Manager</i> in
-[The Walt Disney Company](http://www.disney.com). 
+[The Walt Disney Company](http://www.disney.com).  
 
 <table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#f3f2f7">   
 

@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+====== 
 * <i>Certificate in Business Excellence (CIBE)</i> from [Columbia Business School](https://execed.business.columbia.edu/certificates), 2022.
 * <i>Advanced Certificate for Executives (ACE) in Management, Innovation, and Technology</i> from [Massachusetts Institute of Technology (MIT) Sloan School of Management](https://mitsloan.mit.edu/), 2018.
 * Ph.D. in [Computer and Information Science](https://eng-cs.syr.edu/) from [Syracuse University](https://www.syracuse.edu/), Syracuse, New York, USA, 2001.
