@@ -89,7 +89,7 @@ Education
 
 Accomplishments
 ------
-- Received [IEEE Computer Society Distinguished Contributor](https://www.computer.org/press-room/2022-news/ieee-cs-honors-2021-distinguished-contributors) award, 2022 March, IEEE Computer Society 
+- Received [IEEE Computer Society Distinguished Contributor](https://www.computer.org/press-room/2022-news/ieee-cs-honors-2021-distinguished-contributors) award, 2022 March, IEEE Computer Society. 
 - Received [IEEE Senior Member](https://www.ieee.org/membership/senior/) and [ACM Senior Member](https://awards.acm.org/senior-members) awards recognizing work & research contributions (2013)
 - Co-authored 15 US patents & 20+ papers (received 1000+ references, Google Scholar).  
 See [Google Scholar](http://scholar.google.com/citations?user=JCFmKSkAAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Hasan_Timucin_Ozdemir)
