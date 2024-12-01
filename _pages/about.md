@@ -72,7 +72,7 @@ Education
   - [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2025),  
   - Scrum Master  (2018-2022), 
   - Scrum Product Owner (2018-2021),
-  - SANS SEC522: Application Security: Securing Web Apps, APIs, and Microservices (2023), 
+  - [SANS SEC522: Application Security: Securing Web Apps, APIs, and Microservices](https://www.sans.org/cyber-security-courses/application-security-securing-web-apps-api-microservices/) (2023), 
   - [Neo4j Certified Professional](https://graphacademy.neo4j.com/u/ceb58edf-7d23-451b-9a1a-923e8cbf215c/neo4j-certification/#.YwS7TqI3YZw.link) (2022),
   - [Neo4j Graph Data Science Certification](https://graphacademy.neo4j.com/u/ceb58edf-7d23-451b-9a1a-923e8cbf215c/gds-certification/#.YwS7pyPHyQg.link) (2022),
   - [Udacity Data Streaming Nanodegree](https://www.udacity.com/course/data-streaming-nanodegree--nd029) (2022),  
