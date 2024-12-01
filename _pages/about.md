@@ -16,7 +16,7 @@ author_profile: true
 ---
 
 
-Experienced Technologist with proven success record spanning over 20 years and +3 years of talent management experience. 
+Experienced Technologist with proven success record spanning over 20 years and +5 years of talent management experience. 
 [Tim](https://www.linkedin.com/in/hasantimucinozdemir) is a <i>Software Engineering Manager</i> in
 [The Walt Disney Company](http://www.disney.com).  
 
