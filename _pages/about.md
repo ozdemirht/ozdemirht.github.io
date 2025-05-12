@@ -148,6 +148,7 @@ Sites
 1. [Medium.com](https://medium.com/@ozdemirtim/)
 1. [GitHub](https://github.com/ozdemirht)
 1. [GitHub Page](https://ozdemirht.github.io/)
+2. [CV-1999](https://infomall.org/sites/dsc/storage1/c3/shared/home/msen7/packing/CURRENT/npac/home/msen7/util/CV/cirvitae.html)
 
 
 by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
