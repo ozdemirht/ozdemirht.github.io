@@ -16,7 +16,7 @@ author_profile: true
 ---
 
 
-Experienced Technologist with proven success record over 20 years with +5 years experience in managing software engineering teams and talent. 
+Experienced Technologist with proven success record over 20+ years with 7+ years experience in people leadership and managing software engineering teams and talent. 
 [Tim](https://www.linkedin.com/in/hasantimucinozdemir) is a <i>Software Engineering Manager</i> in
 [The Walt Disney Company](http://www.disney.com).  
 
