@@ -1,7 +1,7 @@
 
 ---
 title: "Medium.com"
-excerpt: "<img src='/images/DA_Foundation.png' width='500' height='300'>"
+excerpt: "<img src='/images/Medium-Wordmark-Black.png' width='500' height='300'>"
 collection: portfolio
 ---
 
