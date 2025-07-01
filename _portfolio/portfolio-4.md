@@ -1,9 +1,10 @@
 
 ---
 title: "Medium.com"
-excerpt: "<img src='/images/Medium-Wordmark-Black.png' width='500' height='300'>"
+excerpt: "<img src='/images/Medium-Wordmark-Black.png'>"
 collection: portfolio
 ---
+
 
 Articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
 
