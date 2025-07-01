@@ -11,6 +11,13 @@ header:
 
 {% include base_path %}
 
+Articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
+------
+
+1. [System Design: Food Delivery System](https://medium.com/@ozdemirtim/system-design-food-delivery-system-217356c1988d) (2025)
+2. [Algorithm Interview by Example: Process](https://medium.com/@ozdemirtim/algorithm-interview-by-example-process-d12a70202c9f) (2020)
+3. [Algorithm Interview by Example: Random Selection](https://medium.com/@ozdemirtim/algorithm-interview-by-example-random-selection-42bf4aaad9e2) (2020) 
+
 Data Science
 ------
 
