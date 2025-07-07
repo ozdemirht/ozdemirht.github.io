@@ -74,6 +74,7 @@ Data Science
      <li>Classifiy wine quality based on given measurements </li>
      <li>Data set: <a href="https://archive.ics.uci.edu/ml/datasets/wine+quality">Wine Quality Dataset</a>  </li>
      <li>Classification Algorithm: DNNClassifier (multi-layer neural network)</li>
+     <li>Compare performans of classification algoirithms</li>
    </ul>  
  </td>
 </tr>
