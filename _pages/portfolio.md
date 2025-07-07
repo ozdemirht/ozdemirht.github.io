@@ -33,7 +33,11 @@ Data Science
   <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/pca/ex1/example.ipynb">
    <img src="/images/pca-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
   </a>
-  <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Classification methods (Logistic Regression, Decision Tree, Random Forest) after applying PCA</span> 
+  <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Classification methods (Logistic Regression, Decision Tree, Random Forest) after applying PCA</span> <br>
+   <ul>
+     <li> Applied classification algorithms to Wine Quality Dataset </li>
+     <li> Applied PCA for dimension reduction </li>
+   </ul>
  </td>
 
  <td style="white-space:wrap;text-align:center;vertical-align:bottom">
