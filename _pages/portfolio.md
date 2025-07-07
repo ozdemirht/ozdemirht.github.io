@@ -48,6 +48,11 @@ Data Science
    <img src="/images/kmeans-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
   </a>
   <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">K-Means (using <a href="https://scikit-learn.org/">Scikit-learn</a> )</span>
+   <ul>
+     <li> Discover classes in a given data set</li>
+     <li> Data Set: <a href="https://archive.ics.uci.edu/ml/datasets/wine+quality">Wine Quality Dataset</a> </li>
+     <li> Algorithm: K-Means clustering (using <a href="https://scikit-learn.org/">Scikit-learn</a>)</li>
+   </ul>
  </td>
 </tr>
 
