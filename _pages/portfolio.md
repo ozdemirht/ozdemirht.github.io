@@ -135,7 +135,9 @@ Data Engineering
 <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/project-2%20(Apache%20Cassandra)/Project_1B_%20Project.ipynb">
 <img src="/images/data-science-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>   
-<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">NoSQL Apache Cassandra </span>  
+<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">NoSQL Apache Cassandra <br>
+</span> <br>
+Problem: Sparkify wants to analyze the song played event data they've been collecting on songs and user activity on their new music streaming app. They are interested in understanding what songs users are listening to. Solution will use Apache Cassandra to support identified queries. Solution will require processing event log data in CSV format to be loaded to tables in Apache Cassandra database.
 </td>
  
 </tr> 
