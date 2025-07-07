@@ -35,7 +35,7 @@ Data Science
   </a>
   <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Classification methods (Logistic Regression, Decision Tree, Random Forest) after applying PCA</span> <br>
    <ul>
-     <li> Applied classification algorithms (using <a href="https://scikit-learn.org/">Scikit-learn</a> ) to < ahref=-"https://archive.ics.uci.edu/ml/datasets/wine+quality">Wine Quality Dataset</ahref>a> </li>
+     <li> Applied classification algorithms (using <a href="https://scikit-learn.org/">Scikit-learn</a> ) to <a href="https://archive.ics.uci.edu/ml/datasets/wine+quality">Wine Quality Dataset</a> </li>
      <li> Applied [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis) for dimension reduction </li>
    </ul>
  </td>
