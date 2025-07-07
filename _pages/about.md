@@ -107,6 +107,17 @@ Links to articles in [Medium.com](https://medium.com/@ozdemirtim/) by [Tim Ozdem
 <table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#f3f2f7">   
 <tr>
 <td style="white-space:wrap;text-align:center;vertical-align:bottom">
+<a href="https://medium.com/@ozdemirtim/system-design-food-delivery-system-217356c1988d">
+<img src="/images/medium-a1.png" alt="https://medium.com/@ozdemirtim" width="200" height="250"> 
+</a>
+<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">System Design: Food Delivery System  (2025)</span> 
+</td>
+<td>  
+</td>  
+</tr>
+
+<tr>
+<td style="white-space:wrap;text-align:center;vertical-align:bottom">
 <a href="https://medium.com/@ozdemirtim/algorithm-interview-by-example-process-d12a70202c9f">
 <img src="/images/medium-a1.png" alt="https://medium.com/@ozdemirtim" width="200" height="250"> 
 </a>
