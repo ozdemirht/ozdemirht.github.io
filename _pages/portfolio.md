@@ -69,7 +69,8 @@ Data Science
    <ul>
      <li> Predict price of a house
      <li> Data Set: <a href="https://www.kaggle.com/harlfoxem/housesalesprediction">House Sales in King County, USA</a> </li>
-     <li></li>
+     <li> Algorithms: Linear, Ridge, Lasso, ElasticNet, Huber (using <a href="https://scikit-learn.org/">Scikit-learn</a>) </li>
+     <li> </li>
    </ul>
  </td>
 
