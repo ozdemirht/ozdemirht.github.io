@@ -20,14 +20,10 @@ Articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linkedin.com/i
 
 Data Science
 ------
-
 <table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#f3f2f7">
-
-
 <tr>  
  <th>Dimension Reduction</th> <th>Clustering</th>
 </tr>
-
 <tr>
  <td style="white-space:wrap;text-align:center;vertical-align:bottom">
   <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/pca/ex1/example.ipynb">
@@ -42,7 +38,6 @@ Data Science
      <li> Compared performance of algorithms </li>
    </ul>
  </td>
-
  <td style="white-space:wrap;text-align:center;vertical-align:bottom">
   <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/clustering/ex1/example.ipynb">
    <img src="/images/kmeans-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
@@ -55,11 +50,9 @@ Data Science
    </ul>
  </td>
 </tr>
-
 <tr>
  <th>Regression</th> <th>Classification</th>
 </tr>
-
 <tr>
  <td style="white-space:wrap;text-align:center;vertical-align:bottom">
   <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/regression/ex1/example.ipynb">
@@ -72,7 +65,6 @@ Data Science
      <li> Algorithms: Linear, Ridge, Lasso, ElasticNet, Huber (using <a href="https://scikit-learn.org/">Scikit-learn</a>) </li>
    </ul>
  </td>
-
  <td style="white-space:wrap;text-align:center;vertical-align:bottom">
   <a href="https://github.com/ozdemirht/Data-Science/blob/master/learn/classification/ex1/example.ipynb">
    <img src="/images/classification-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
@@ -86,11 +78,9 @@ Data Science
    </ul>  
  </td>
 </tr>
-
 <tr>
  <th> Visualization (Exploratory Data Analysis)</th> <th> </th>
 </tr>
-
 <tr>
 <td style="white-space:wrap;text-align:center;vertical-align:bottom">
 <a href="https://github.com/ozdemirht/Data-Science/tree/master/matplotlib/ex1/example.ipynb">
@@ -98,7 +88,6 @@ Data Science
 </a>
 <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px"><a href="https://matplotlib.org/contents.html">Matplotlib</a> Example </span>
 </td>
-
 <td style="white-space:wrap;text-align:center;vertical-align:bottom">
 <a href="https://github.com/ozdemirht/Data-Science/blob/master/seaborn/ex1/example.ipynb">
 <img src="/images/seaborn.png" alt="https://ozdemirht.github.io/" width="200" height="250">
@@ -106,7 +95,6 @@ Data Science
 <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px"><a href="https://seaborn.pydata.org/">Seaborn</a> Example</span> 
 </td>
 </tr>
-
 </table>
 
 Data Engineering
