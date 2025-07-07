@@ -6,8 +6,7 @@ collection: portfolio
 
 Projects from Data Engineering program 
 ---
-* <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/capstone/Capstone%20Project%20Report.ipynb">   
-Capstone Project (Apache Spark, Matplotlib, pyspark)</a>
+* [Capstone Project](https://github.com/ozdemirht/Data-Enginering/blob/master/capstone/Capstone%20Project%20Report.ipynb) (Apache Spark, Matplotlib, pyspark)
 * <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/Project-5/README.md">
 Project with Apache Airflow, AWS S3, and Python</a>
 * [Project with Apache Airflow, AWS S3, and Python](https://github.com/ozdemirht/Data-Enginering/blob/master/Project-5/README.md)
