@@ -126,7 +126,7 @@ Data Engineering
 
 <td style="white-space:wrap;text-align:center;vertical-align:bottom"> 
 <a href="https://github.com/ozdemirht/study/tree/main/neo4j/java/project_1/app-java-main">
-<img src="/images/NEO4J-HighLevelArchitectureDiagram.png" alt="https://ozdemirht.github.io/" width="200" height="250"> 
+<img src="/images/NEO4J-HighLevelArchitectureDiagram.png" alt="https://ozdemirht.github.io/" width="300" height="400"> 
 </a>
 <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Project Neo4J (REST, SparkJava, Neo4J Graph DB, Cypher QL, Java)</span>  
 </td>
