@@ -12,9 +12,8 @@ Capstone Project (Apache Spark, Matplotlib, pyspark)</a>
 Project with Apache Airflow, AWS S3, and Python</a>
 * [Project with Apache Airflow, AWS S3, and Python](https://github.com/ozdemirht/Data-Enginering/blob/master/Project-5/README.md)
 * <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/Project-4">Project with Star Schema, Apache Spark, AWS S3, and Python</a>
-* <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/Project-3/README.md">Project with Star Schema, AWS Redshift, AWS S3, and Python</a>
+* [Project with Star Schema, Apache Spark, AWS S3, and Python](https://github.com/ozdemirht/Data-Enginering/blob/master/Project-4) "></a>
 * [Project with Star Schema, AWS Redshift, AWS S3, and Python](https://github.com/ozdemirht/Data-Enginering/blob/master/Project-3/README.md)
-* <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/project-2%20(Apache%20Cassandra)/Project_1B_%20Project.ipynb">Project with NoSQL Apache Cassandra</a>
 * [Project with NoSQL Apache Cassandra](https://github.com/ozdemirht/Data-Enginering/blob/master/project-2%20(Apache%20Cassandra)/Project_1B_%20Project.ipynb)
 * [Project with Star Schema, Postgres and Python](https://github.com/ozdemirht/Data-Enginering/blob/master/Project-1)
  
