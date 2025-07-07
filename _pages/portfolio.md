@@ -102,7 +102,7 @@ Data Engineering
 <a href="https://github.com/ozdemirht/Data-Enginering/tree/master/Project-4">
 <img src="/images/de-erd-2.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
-<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Project (Star Schema, Apache Spark, AWS S3, and Python)</span> 
+<br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Project (Star Schema, Apache Spark, AWS S3, and Python)</span> <br>
   <br>This solution applies star schema model by
   <ul>
   <li> extracting JSON data files on AWS S3 to DataFrames of Apache Spark (PySpark),
@@ -135,11 +135,13 @@ Data Engineering
 <img src="/images/NEO4J-HighLevelArchitectureDiagram.png" alt="https://ozdemirht.github.io/" width="300" height="400"> 
 </a>
 <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Project Neo4J (REST, SparkJava, Neo4J Graph DB, Cypher QL, Java)</span>  <br>
-  <br> Spark Java as Microservices framework to build REST APIs
-  <br> API supports limit+offset pagination via Cypher Queries
-  <br> Authentication is handled with Auth0 and JWT Tokens
-  <br> Graph Data Model for Movie database (Title, Actors, Directors, etc.)
-  <br> Queries are developed in Cypher Query Language  
+  <ul>
+    <li> Spark Java as Microservices framework to build REST APIs
+  <li> API supports limit+offset pagination via Cypher Queries
+  <li> Authentication is handled with Auth0 and JWT Tokens
+  <li> Graph Data Model for Movie database (Title, Actors, Directors, etc.)
+  <li> Queries are developed in Cypher Query Language  
+  </ul>
 </td>
 
 <td style="white-space:wrap;text-align:center;vertical-align:bottom"> 
