@@ -139,7 +139,7 @@ Data Engineering
 </span> <br>
 Problem: Sparkify wants to analyze the song played event data on songs and user activity. <br>
 Solution will use Apache Cassandra to support identified queries. <br>
-Event log data in CSV format => ETLS => Tables in Apache Cassandra database.
+Event log data in CSV format => ETL => Tables in Apache Cassandra database.
 </td>
  
 </tr> 
