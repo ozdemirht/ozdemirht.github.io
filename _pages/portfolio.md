@@ -104,9 +104,11 @@ Data Engineering
 </a>
 <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Project (Star Schema, Apache Spark, AWS S3, and Python)</span> 
   <br>This solution applies star schema model by
-  <br> extracting JSON data files on AWS S3 to DataFrames of Apache Spark (PySpark),
-  <br> transforming raw data to star schema by using Apache Spark, and
-  <br> loading these dataframes of star schema as Parquet files (column-oriented storage format) on AWS S3.
+  <ul>
+  <li> extracting JSON data files on AWS S3 to DataFrames of Apache Spark (PySpark),
+  <li> transforming raw data to star schema by using Apache Spark, and
+  <li> loading these dataframes of star schema as Parquet files (column-oriented storage format) on AWS S3.
+  </ul>
 </td>
 </tr>
 
