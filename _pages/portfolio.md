@@ -129,6 +129,10 @@ Data Engineering
 <img src="/images/NEO4J-HighLevelArchitectureDiagram.png" alt="https://ozdemirht.github.io/" width="300" height="400"> 
 </a>
 <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Project Neo4J (REST, SparkJava, Neo4J Graph DB, Cypher QL, Java)</span>  
+  <br> Spark Java as Microservices framework to build REST APIs, limit+offset pagination
+  <br> Authentication is handled with Auth0 and JWT Tokens
+  <br> Graph Data Model for Movie database (Title, Actors, Directors, etc.)
+  <br> Queries are developed in Cypher Query Language  
 </td>
 
 <td style="white-space:wrap;text-align:center;vertical-align:bottom"> 
