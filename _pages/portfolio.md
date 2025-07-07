@@ -60,7 +60,7 @@ Data Science
   <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Regression methods (Linear, Ridge, Lasso, ElasticNet, Huber)</span> <br>
    <ul>
      <li> Predict price of a house
-     <li> Data Set: </li>
+     <li> Data Set: <a href="https://www.kaggle.com/harlfoxem/housesalesprediction">House Sales in King County, USA</a> </li>
      <li></li>
    </ul>
  </td>
