@@ -19,6 +19,7 @@ Articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linkedin.com/i
 
 Data Engineering
 ------
+<div>
 <table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#f3f2f7">
 <tr>
 <td style="white-space:wrap;text-align:center;vertical-align:bottom">
@@ -80,9 +81,11 @@ Event log data in CSV format => ETL => Tables in Apache Cassandra database.
 </td>
 </tr> 
 </table>
+</div>
 Data Science
 ------
-<table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#f3f2f7">
+<div>
+  <table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#f3f2f7">
 <tr>  
  <th>Dimension Reduction</th> <th>Clustering</th>
 </tr>
@@ -158,7 +161,7 @@ Data Science
 </td>
 </tr>
 </table>
-
+</div>
 
 
 {% for post in site.portfolio %}
