@@ -80,7 +80,6 @@ Event log data in CSV format => ETL => Tables in Apache Cassandra database.
 </td>
 </tr> 
 </table>
-
 Data Science
 ------
 <table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#f3f2f7">
