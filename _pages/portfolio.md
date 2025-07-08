@@ -9,7 +9,7 @@ header:
   caption: "Data Engineering and Science"
 ---
 
-{% include base_path %}
+
 
 Articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
 ------
@@ -166,7 +166,7 @@ Data Science
 </table>
 </div>
 
-
+{% include base_path %}
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
