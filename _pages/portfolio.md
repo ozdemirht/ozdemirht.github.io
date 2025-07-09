@@ -9,7 +9,7 @@ header:
   caption: "Data Engineering and Science"
 ---
 
-
+{% include base_path %}
 
 Articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
 ------
@@ -85,9 +85,10 @@ Event log data in CSV format => ETL => Tables in Apache Cassandra database.
 </tr> 
 </table>
 </div>
+
 Data Science
 ------
-<div>
+<div markdown="0"> 
   <table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#f3f2f7">
 <tr>  
  <th>Dimension Reduction</th> <th>Clustering</th>
@@ -166,7 +167,7 @@ Data Science
 </table>
 </div>
 
-{% include base_path %}
+
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
