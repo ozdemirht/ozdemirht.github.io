@@ -22,9 +22,11 @@ Drafts
 
 Data Engineering
 ------
-<div markdowns="0">
+
+<div markdowns="1">
 <table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#f3f2f7">
-<tr>
+
+  <tr>
 <td style="white-space:wrap;text-align:center;vertical-align:bottom">
 <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/capstone/Capstone%20Project%20Report.ipynb">
 <img src="/images/de-erd-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
