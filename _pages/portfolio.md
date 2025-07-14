@@ -19,6 +19,11 @@ Articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linkedin.com/i
 
 Drafts
 1. [System Design: Food Delivery System, Proximity Search](https://medium.com/@ozdemirtim/system-design-food-delivery-system-a08364d680cd) (2025)
+2. Open API: Adding summary of history to context (Prompts for role: user and assistant) (2025)
+3. Open API: Classification (utilize prompts of user-assitant for sample-label) (2025)
+4. Open API: F(dietary restrictions, cuisine, available ingirendients) => Recipe (2025)
+5. Open API: Recipes enhanced with Model Context Protocol (MCP) to pull in external trusted data (2025)
+
 
 Data Engineering
 ------
@@ -164,6 +169,24 @@ Data Science
 <img src="/images/seaborn.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>
 <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px"><a href="https://seaborn.pydata.org/">Seaborn</a> Example</span> 
+</td>
+</tr>
+<tr>
+<td style="white-space:wrap;text-align:center;vertical-align:bottom"> Convolutional-NN
+</td>
+<td style="white-space:wrap;text-align:center;vertical-align:bottom">Recurrent-NN
+</td>
+</tr>
+<tr>
+<td style="white-space:wrap;text-align:center;vertical-align:bottom"> Autoencoders
+</td>
+<td style="white-space:wrap;text-align:center;vertical-align:bottom"> Transformers
+</td>
+</tr>
+<tr>
+<td style="white-space:wrap;text-align:center;vertical-align:bottom"> Reinforcement learning
+</td>  
+<td style="white-space:wrap;text-align:center;vertical-align:bottom">
 </td>
 </tr>
 </table>
