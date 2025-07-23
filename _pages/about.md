@@ -114,7 +114,7 @@ Links to articles in [Medium.com](https://medium.com/@ozdemirtim/) by [Tim Ozdem
 </td>
 <td style="white-space:wrap;text-align:center;vertical-align:bottom">
 <a href="https://ozdemirtim.medium.com/genai-driven-sdlc-d7b02c673bb0">
-<img src="/images/FD-GenAI-Image-2.png" alt="https://medium.com/@ozdemirtim" width="200" height="250"> 
+<img src="/images/GPT-GenAI-SDLC-F1.png" alt="https://medium.com/@ozdemirtim" width="200" height="250"> 
 </a>
 <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">GenAI-Driven SDLC (2025)</span> 
 </td>  
