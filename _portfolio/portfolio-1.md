@@ -15,12 +15,13 @@ Projects from Data Engineering program
 * [Project with Star Schema](https://github.com/ozdemirht/Data-Enginering/blob/master/Project-4) (Apache Spark, AWS S3, and Python)
 * [Project with Apache Airflow, AWS S3, and Python](https://github.com/ozdemirht/Data-Enginering/blob/master/Project-5/README.md) 
  
-Data Engineering
+D
+ata Engineering
 ------
 
-<table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#f3f2f7">
 
-  <tr>
+<table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#f3f2f7">
+<tr>
 <td style="white-space:wrap;text-align:center;vertical-align:bottom">
 <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/capstone/Capstone%20Project%20Report.ipynb">
 <img src="/images/de-erd-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
@@ -80,3 +81,4 @@ Event log data in CSV format => ETL => Tables in Apache Cassandra database.
 </td>
 </tr> 
 </table> 
+
