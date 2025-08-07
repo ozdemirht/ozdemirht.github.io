@@ -17,7 +17,7 @@ Projects from Data Engineering program
  
 
 | First cell|Second cell|Third cell
-| First | Second | Third | 
+| First | Second | Third |  
 
 First | Second | | Fourth |
 
