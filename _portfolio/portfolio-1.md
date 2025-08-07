@@ -28,7 +28,7 @@ First | Second | | Fourth |
 | <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/capstone/Capstone%20Project%20Report.ipynb"> <img src="/images/de-erd-1.png" alt="https://ozdemirht.github.io/" width="300" height="350"></a> <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Project (Apache Spark, Matplotlib, pyspark)</span>  |<a href="https://github.com/ozdemirht/Data-Enginering/tree/master/Project-4"> <img src="/images/de-erd-2.png" alt="https://ozdemirht.github.io/" width="300" height="350"></a> <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Project (Star Schema, Apache Spark, AWS S3, and Python)</span> <br> This solution applies star schema model by <br>* extracting JSON data files on AWS S3 to DataFrames of Apache Spark (PySpark), <br>* transforming raw data to star schema by using Apache Spark, and <br>* loading these dataframes of star schema as Parquet files (column-oriented storage format) on AWS S3. | 
 | <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/project-2%20(Apache%20Cassandra)/Project_1B_%2Project.ipynb"> <img src="/images/de-cassandra.jpg" alt="https://ozdemirht.github.io/" width="300" height="350"> </a> <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">NoSQL Apache Cassandra </span> | |
    
-      
+   
 Data Engineering
 ------
 
