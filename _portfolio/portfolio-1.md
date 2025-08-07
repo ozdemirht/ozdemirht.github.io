@@ -15,8 +15,9 @@ Projects from Data Engineering program
 * [Project with Star Schema](https://github.com/ozdemirht/Data-Enginering/blob/master/Project-4) (Apache Spark, AWS S3, and Python)
 * [Project with Apache Airflow, AWS S3, and Python](https://github.com/ozdemirht/Data-Enginering/blob/master/Project-5/README.md) 
  
-D
-ata Engineering
+
+
+Data Engineering
 ------
 
 
@@ -79,6 +80,5 @@ Problem: Sparkify wants to analyze the song played event data on songs and user 
 Solution will use Apache Cassandra to support identified queries. <br> 
 Event log data in CSV format => ETL => Tables in Apache Cassandra database.
 </td> 
-</tr> 
-</table> 
+
 
