@@ -29,10 +29,10 @@ First | Second | | Fourth |
 | <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/project-2%20(Apache%20Cassandra)/Project_1B_%20Project.ipynb" taget='_projectw'> <img src="/images/de-cassandra.jpg" alt="https://ozdemirht.github.io/" width="300" height="350"> </a> <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">NoSQL Apache Cassandra </span> | |
    
    
-Data Engineering
+Data Engineering  
 ------
   
-  
+
 <table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#f3f2f7">
 <tr>
 <td style="white-space:wrap;text-align:center;vertical-align:bottom">
