@@ -94,3 +94,4 @@ Solution will use Apache Cassandra to support identified queries. <br>
 Event log data in CSV format => ETL => Tables in Apache Cassandra database.
 </td>  
     
+  
