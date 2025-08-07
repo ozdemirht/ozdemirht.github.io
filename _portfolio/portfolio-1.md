@@ -25,7 +25,7 @@ First | Second | | Fourth |
 |-----------------+------------+-----------------+----------------|
 | Default aligned |Left aligned| Center aligned  | Right aligned  |
 |-----------------|:-----------|:---------------:|---------------:|
-| <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/capstone/Capstone%20Project%20Report.ipynb"> <img src="/images/de-erd-1.png" alt="https://ozdemirht.github.io/" width="200" height="250"></a> <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Project (Apache Spark, Matplotlib, pyspark)</span>  |Second cell | Third cell      | fourth cell    |
+| <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/capstone/Capstone%20Project%20Report.ipynb"> <img src="/images/de-erd-1.png" alt="https://ozdemirht.github.io/" width="200" height="250"></a> <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Project (Apache Spark, Matplotlib, pyspark)</span>  |<a href="https://github.com/ozdemirht/Data-Enginering/tree/master/Project-4"> <img src="/images/de-erd-2.png" alt="https://ozdemirht.github.io/" width="200" height="250"></a> <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Project (Star Schema, Apache Spark, AWS S3, and Python)</span> <br> <br>This solution applies star schema model by <ul> <li> extracting JSON data files on AWS S3 to DataFrames of Apache Spark (PySpark), <li> transforming raw data to star schema by using Apache Spark, and <li> loading these dataframes of star schema as Parquet files (column-oriented storage format) on AWS S3. </ul> | Third cell      | fourth cell    |
 
 
   
