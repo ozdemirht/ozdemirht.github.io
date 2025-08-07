@@ -53,7 +53,7 @@ Data Engineering
 </a>
 <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Project (Star Schema, AWS Redshift, AWS S3, and Python)</span> 
 </td>
-</tr> 
+</tr>  
 <tr>
 <td style="white-space:wrap;text-align:center;vertical-align:bottom"> 
 <a href="https://github.com/ozdemirht/study/tree/main/neo4j/java/project_1/app-java-main">
