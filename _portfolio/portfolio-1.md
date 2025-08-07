@@ -75,7 +75,7 @@ Data Engineering
 <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">NoSQL Apache Cassandra <br>
 </span> <br>
 Problem: Sparkify wants to analyze the song played event data on songs and user activity. <br>
-Solution will use Apache Cassandra to support identified queries. <br>
+Solution will use Apache Cassandra to support identified queries. <br> 
 Event log data in CSV format => ETL => Tables in Apache Cassandra database.
 </td>
 </tr> 
