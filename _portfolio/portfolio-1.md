@@ -74,11 +74,11 @@ ata Engineering
 <img src="/images/data-science-1.png" alt="https://ozdemirht.github.io/" width="200" height="250">
 </a>   
 <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">NoSQL Apache Cassandra <br>
-</span> <br>
+</span> <br> 
 Problem: Sparkify wants to analyze the song played event data on songs and user activity. <br>
 Solution will use Apache Cassandra to support identified queries. <br> 
 Event log data in CSV format => ETL => Tables in Apache Cassandra database.
-</td>
+</td> 
 </tr> 
 </table> 
 
