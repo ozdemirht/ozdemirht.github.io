@@ -26,13 +26,13 @@ First | Second | | Fourth |
 | Default aligned |Left aligned|
 |:----------------|:-----------|
 | <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/capstone/Capstone%20Project%20Report.ipynb" target='_projectw'> <img src="/images/de-erd-1.png" alt="https://ozdemirht.github.io/" width="300" height="350"></a> <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Project (Apache Spark, Matplotlib, pyspark)</span>  |<a href="https://github.com/ozdemirht/Data-Enginering/tree/master/Project-4" target='_projectw'> <img src="/images/de-erd-2.png" alt="https://ozdemirht.github.io/" width="300" height="350"></a> <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">Project (Star Schema, Apache Spark, AWS S3, and Python)</span> <br> This solution applies star schema model by <br>* extracting JSON data files on AWS S3 to DataFrames of Apache Spark (PySpark), <br>* transforming raw data to star schema by using Apache Spark, and <br>* loading these dataframes of star schema as Parquet files (column-oriented storage format) on AWS S3. | 
-| <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/project-2%20(Apache%20Cassandra)/Project_1B_%2Project.ipynb" taget='_projectw'> <img src="/images/de-cassandra.jpg" alt="https://ozdemirht.github.io/" width="300" height="350"> </a> <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">NoSQL Apache Cassandra </span> | |
+| <a href="https://github.com/ozdemirht/Data-Enginering/blob/master/project-2%20(Apache%20Cassandra)/Project_1B_%20Project.ipynb" taget='_projectw'> <img src="/images/de-cassandra.jpg" alt="https://ozdemirht.github.io/" width="300" height="350"> </a> <br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px">NoSQL Apache Cassandra </span> | |
    
    
 Data Engineering
 ------
-
-
+  
+  
 <table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#f3f2f7">
 <tr>
 <td style="white-space:wrap;text-align:center;vertical-align:bottom">
