@@ -1,6 +1,6 @@
 ---
 title: "Data Science Projects"
-excerpt: "<img src='/images/DS-Summary-Screenshot.jpg' width='500' height='300'>"
+excerpt: "<img src='/images/DS-Summary-Screenshot.png' width='500' height='300'>"
 collection: portfolio
 ---
 
