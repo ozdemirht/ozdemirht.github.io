@@ -18,7 +18,7 @@ Articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linkedin.com/i
 1. [Algorithm Interview by Example: Process](https://medium.com/@ozdemirtim/algorithm-interview-by-example-process-d12a70202c9f) (2020)
 1. [Algorithm Interview by Example: Random Selection](https://medium.com/@ozdemirtim/algorithm-interview-by-example-random-selection-42bf4aaad9e2) (2020)
 
-Drafts
+**Drafts**
 1. [System Design: Food Delivery System, Proximity Search](https://medium.com/@ozdemirtim/system-design-food-delivery-system-a08364d680cd) (2025)
 1. Open API: Adding summary of history to context (Prompts for role: user and assistant) (2025)
 1. Open API: Classification (utilize prompts of user-assitant for sample-label) (2025)
@@ -28,4 +28,4 @@ Drafts
  
 {% for post in site.portfolio %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} 
