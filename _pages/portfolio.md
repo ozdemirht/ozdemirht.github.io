@@ -25,7 +25,7 @@ Drafts
 1. Open API: F(dietary restrictions, cuisine, available ingirendients) => Recipe (2025)
 1. Open API: Recipes enhanced with Model Context Protocol (MCP) to pull in external trusted data (2025)
 
-
+ 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
