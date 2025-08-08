@@ -8,9 +8,9 @@ Projects from <a href='https://github.com/ozdemirht/Data-Architecture'>Data Arch
 
 * <a href="https://github.com/ozdemirht/Data-Architecture/blob/main/prj2/Readme.md">Project (Dimensional model, Snowflake, SQL)</a>
  
-**Data Modelling**
+**Data Modelling** 
 * Entity Relation Model (ER Diagrams)
-* Dimensional Modeling (Star and Snowflake Schema)
+* Dimensional Modeling (Star and Snowflake Schema) 
 * Data Vault
 * Data Mesh 
 * Lambda and Kappa Architectures
