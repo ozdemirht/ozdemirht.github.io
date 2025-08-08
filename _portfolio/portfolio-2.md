@@ -13,7 +13,9 @@ collection: portfolio
 | Visualization (Exploratory Data Analysis) | |
 | Matplotlib | Seaborn |
 | <a href="https://github.com/ozdemirht/Data-Science/tree/master/matplotlib/ex1/example.ipynb"><img src="/images/matplotlib-1.png" alt="https://ozdemirht.github.io/" width="200" height="250"></a><br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px"><a href="https://matplotlib.org/contents.html">Matplotlib</a> Example </span> | <a href="https://github.com/ozdemirht/Data-Science/blob/master/seaborn/ex1/example.ipynb"><img src="/images/seaborn.png" alt="https://ozdemirht.github.io/" width="200" height="250"></a><br> <span style="font-weight:bold;font-family:verdana;color:blue;font-size:14px"><a href="https://seaborn.pydata.org/">Seaborn</a> Example</span> |
-
+| Convolutional-NN | Recurrent-NN |
+| Autoencoders | Transformers |
+| Reinforcement learning | GAN |
 
 
 ﻿# Data Science and Machine Learning Notebooks 
