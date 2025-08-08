@@ -5,7 +5,7 @@ collection: portfolio
 ---
   
 
-![](https://ozdemirht.github.io/images/de-concept.png'){:height="300px" width="500px"}  
+![](https://ozdemirht.github.io/images/de-concept.png'){:height="300px" width="500px"}   
 
 Projects from Data Engineering program
 ---
