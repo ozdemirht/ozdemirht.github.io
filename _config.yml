@@ -273,6 +273,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _journey
+  - scope:
+      path: ""
+      type: reports
+    values:
+      layout: single 
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
