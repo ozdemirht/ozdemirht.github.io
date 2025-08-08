@@ -5,7 +5,7 @@ collection: portfolio
 ---
  
 
-![](../images/de-concept.png'){:height="300px" width="500px"}  
+![](../images/de-concept.png'){:height="300px" width="500px"}
 
 Projects from Data Engineering program 
 ---
