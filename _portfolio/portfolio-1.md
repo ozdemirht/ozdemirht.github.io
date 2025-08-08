@@ -27,7 +27,6 @@ Projects from Data Engineering program
    
 Data Engineering  
 ------
-  
 
 <table style="border: none;margin: 0px auto;vertical-align:bottom;background-color:#f3f2f7">
 <tr>
