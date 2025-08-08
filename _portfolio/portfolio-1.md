@@ -3,7 +3,7 @@ title: "Data Engineering Projects"
 excerpt: "<img src='/images/de-concept.png' width='500' height='300'>"
 collection: portfolio
 ---
- 
+  
 
 ![](../../images/de-concept.png'){:height="300px" width="500px"}  
 
