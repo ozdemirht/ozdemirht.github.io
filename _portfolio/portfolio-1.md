@@ -1,13 +1,10 @@
 ---
 title: "Data Engineering Projects"
-excerpt: "<img src='/images/de-concept.png' width='500' height='300'>"
+excerpt: "<img src='/images/DE-Summary-Screenshot.png' width='500' height='300'>"
 collection: portfolio
 ---
-  
 
-![](https://ozdemirht.github.io/images/de-concept.png){:height="300px" width="500px"}   
-
-![](../../images/de-concept.png){:height="300px" width="300px"}       
+![](../../images/de-concept.png){:height="300px" width="500px"}       
 
 Projects from Data Engineering program
 ---
