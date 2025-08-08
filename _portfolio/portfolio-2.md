@@ -8,19 +8,27 @@ Projects from <a href='https://github.com/ozdemirht/Data-Architecture'>Data Arch
 
 * <a href="https://github.com/ozdemirht/Data-Architecture/blob/main/prj2/Readme.md">Project (Dimensional model, Snowflake, SQL)</a>
  
-Data Modelling
+**Data Modelling**
 * Entity Relation Model (ER Diagrams)
 * Dimensional Modeling (Star and Snowflake Schema)
 * Data Vault
 * Data Mesh 
-* Lambda and Kappa
+* Lambda and Kappa Architectures
 * <a href="https://www.dataversity.net/types-of-data-hub-patterns/#" target="_blank">Data Hub</a>
  
-Tools
+**Tools**
+* Apache Airflow
+* Liquibase
 * dbt
 * great_expectations
 * dataform
 * Matillion
-* Airflow
+
+**Best Practices**
+* Data Governance
+* Data Quality
+* Data Catalog
+* Data Dictionary
+* Data Product 
 
 
