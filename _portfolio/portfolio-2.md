@@ -4,6 +4,8 @@ excerpt: "<img src='/images/data-science-2.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
+![](../../images/data-science-2.jpg){:height="300px" width="500px"}   
+
 |-----------------+------------|
 |:----------------|:-----------|
 | **Dimension Reduction** | **Clustering** |
