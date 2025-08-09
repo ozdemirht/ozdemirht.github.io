@@ -13,6 +13,7 @@ Projects from <a href='https://github.com/ozdemirht/Data-Architecture'>Data Arch
 * Dimensional Modeling (Star and Snowflake Schema) 
 * Data Vault
 * Data Mesh 
+* Data Fabric
 * Lambda and Kappa Architectures
 * <a href="https://www.dataversity.net/types-of-data-hub-patterns/#" target="_blank">Data Hub</a>
  
@@ -30,5 +31,6 @@ Projects from <a href='https://github.com/ozdemirht/Data-Architecture'>Data Arch
 * Data Catalog
 * Data Dictionary
 * Data Product 
+* Data Lineage
 
 
