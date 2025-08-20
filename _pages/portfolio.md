@@ -19,7 +19,7 @@ Articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linkedin.com/i
 1. [Algorithm Interview by Example: Random Selection](https://medium.com/@ozdemirtim/algorithm-interview-by-example-random-selection-42bf4aaad9e2) (2020)
 
 **Drafts**
-1. [GenAI-Driven SDLC : Generate a React UI component](https://medium.com/@ozdemirtim/genai-driven-sdlc-generate-a-react-ui-component-1746feb8d836)
+1. [GenAI-Driven SDLC : Generate a React UI component](https://medium.com/@ozdemirtim/genai-driven-sdlc-generate-a-react-ui-component-1746feb8d836) (2025)
 1. [System Design: Food Delivery System, Proximity Search](https://medium.com/@ozdemirtim/system-design-food-delivery-system-a08364d680cd) (2025)
 1. Open API: Adding summary of history to context (Prompts for role: user and assistant) (2025)
 1. Open API: Classification (utilize prompts of user-assitant for sample-label) (2025)
