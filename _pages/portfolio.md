@@ -11,7 +11,7 @@ header:
 
 {% include base_path %}
 
-Articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
+Articles in [Medium.com](https://ozdemirtim.medium.com/) by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
 ------
 1. [GenAI-Driven SDLC : Generate React UI Code](https://ozdemirtim.medium.com/genai-driven-sdlc-generate-react-ui-code-1746feb8d836) (2025) 
 1. [GenAI-Driven SDLC](https://ozdemirtim.medium.com/genai-driven-sdlc-d7b02c673bb0) (2025)
