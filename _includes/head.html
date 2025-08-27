@@ -2,6 +2,8 @@
 
 <meta charset="utf-8">
 
+{%- include cookiebot.html -%}
+
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
@@ -11,9 +13,9 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- Start cookieyes banner --> 
+<!-- Start cookieyes banner --  > 
 <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/7b6eaddc44c79e76806b02a1/script.js"></script> 
-<!-- End cookieyes banner -->'
+< !-- End cookieyes banner -->
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
