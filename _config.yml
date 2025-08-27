@@ -279,7 +279,7 @@ defaults:
   # _journey
   - scope:
       path: ""
-      type: reports
+      type: journey
     values:
       layout: single 
       author_profile: true
