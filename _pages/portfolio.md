@@ -26,6 +26,7 @@ Articles in [Medium.com](https://ozdemirtim.medium.com/) by [Tim Ozdemir](https:
 1. Open API: F(dietary restrictions, cuisine, available ingirendients) => Recipe (2025)
 1. Open API: Recipes enhanced with Model Context Protocol (MCP) to pull in external trusted data (2025)
 1. [Java Streaming API Example](https://github.com/ozdemirht/jstream_e2)  
+1. [Algorithm Interview by Example: Reduction](https://medium.com/@ozdemirtim/algorithm-interview-by-example-reduction-1773271bd9f2)
  
 {% for post in site.portfolio %}
   {% include archive-single.html %}
