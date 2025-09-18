@@ -21,6 +21,7 @@ Articles in [Medium.com](https://ozdemirtim.medium.com/) by [Tim Ozdemir](https:
 
 **Drafts**
 1. [System Design: Food Delivery System, Proximity Search](https://medium.com/@ozdemirtim/system-design-food-delivery-system-a08364d680cd) (2025)
+  - [Location Update to Redis](https://github.com/ozdemirht/py_redis_1)
 1. Open API: Adding summary of history to context (Prompts for role: user and assistant) (2025)
 1. Open API: Classification (utilize prompts of user-assitant for sample-label) (2025)
 1. Open API: F(dietary restrictions, cuisine, available ingirendients) => Recipe (2025)
