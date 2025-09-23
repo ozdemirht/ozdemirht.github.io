@@ -31,7 +31,7 @@ Articles in [Medium.com](https://ozdemirtim.medium.com/) by [Tim Ozdemir](https:
 1. [Prompt Engineering practices with Claude](https://github.com/ozdemirht/py_claude_prompt_eng) (2025) 
  - [Conversation with Claude Samples](https://github.com/ozdemirht/py_claude_prompt_eng/blob/master/src/Claude_Conversation.ipynb)
  - [Prompt Optimization](https://github.com/ozdemirht/py_claude_prompt_eng) 
- 
+  
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %} 
