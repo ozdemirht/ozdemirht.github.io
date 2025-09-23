@@ -30,7 +30,7 @@ Articles in [Medium.com](https://ozdemirtim.medium.com/) by [Tim Ozdemir](https:
 1. [Algorithm Interview by Example: Reduction](https://medium.com/@ozdemirtim/algorithm-interview-by-example-reduction-1773271bd9f2) (2025)
 1. [Prompt Engineering practices with Claude](https://github.com/ozdemirht/py_claude_prompt_eng) (2025) 
 1.1. [Convrsation with Claude Samples](https://github.com/ozdemirht/py_claude_prompt_eng/blob/master/src/Claude_Conversation.ipynb)
-1.1. [Prompt Optimization](https://github.com/ozdemirht/py_claude_prompt_eng)
+1.1. [Prompt Optimization](https://github.com/ozdemirht/py_claude_prompt_eng) 
  
 {% for post in site.portfolio %}
   {% include archive-single.html %}
