@@ -22,7 +22,7 @@ Articles in [Medium.com](https://ozdemirtim.medium.com/) by [Tim Ozdemir](https:
 **Drafts**
 1. [System Design: Food Delivery System, Proximity Search](https://medium.com/@ozdemirtim/system-design-food-delivery-system-a08364d680cd) (2025)
   - [Location Update to Redis](https://github.com/ozdemirht/py_redis_1)
-  - [NNQ: Uber H3 Spatial Index Jupyter Notebook](https://github.com/ozdemirht/py_redis_1/blob/master/docs/Test-H3.ipynb)
+  - [NNQ: Uber H3 Spatial Index Jupyter Notebook](https://github.com/ozdemirht/py_redis_1/blob/master/docs/Test-H3.ipynb) (H3, Folium, Python)
   - [NNQ: R-Tree vs H3 Index Jupyter Notebook](https://github.com/ozdemirht/py_redis_1/blob/master/docs/Test-DuckDB.ipynb) (DuckDB, R-Tree, Uber H3, Pandas, Folium, Python, SQL,...)  
 1. Open API: Adding summary of history to context (Prompts for role: user and assistant) (2025)
 1. Open API: Classification (utilize prompts of user-assitant for sample-label) (2025)
