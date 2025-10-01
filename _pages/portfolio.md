@@ -31,7 +31,7 @@ Articles in [Medium.com](https://ozdemirtim.medium.com/) by [Tim Ozdemir](https:
 1. [Java Streaming API Example](https://github.com/ozdemirht/jstream_e2)  (2025)
 1. [Algorithm Interview by Example: Reduction](https://medium.com/@ozdemirtim/algorithm-interview-by-example-reduction-1773271bd9f2) (2025)
 1. [Prompt Engineering practices with Claude](https://github.com/ozdemirht/py_claude_prompt_eng) (2025) 
-  - [Conversation with Claude Samples](https://github.com/ozdemirht/py_claude_prompt_eng/blob/master/src/Claude_Conversation.ipynb)
+  - [Conversation with Claude Samples Jupyter Notebook](https://github.com/ozdemirht/py_claude_prompt_eng/blob/master/src/Claude_Conversation.ipynb) (Claude API, Prompt: Context, System Prompt, Temperature; Python)
   - [Prompt Optimization](https://github.com/ozdemirht/py_claude_prompt_eng)
   
 {% for post in site.portfolio %}
