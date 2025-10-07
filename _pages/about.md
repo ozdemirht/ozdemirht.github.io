@@ -70,7 +70,7 @@ Education
   - [PMI Project Management Professional (PMP)](https://www.pmi.org/) (2018-2030), 
   - [PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/) (2020-2029),  
   - [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) (2020-2023), 
-  - [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2025),  
+  - [SAFe 4 Agilist](https://www.scaledagile.com/certification/certified-safe-agilist/) (2018-2026),  
   - Scrum Master  (2018-2022), 
   - Scrum Product Owner (2018-2021),
   - [SANS SEC522: Application Security: Securing Web Apps, APIs, and Microservices](https://www.sans.org/cyber-security-courses/application-security-securing-web-apps-api-microservices/) (2023), 
