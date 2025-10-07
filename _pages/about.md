@@ -78,10 +78,10 @@ Education
   - [Neo4j Graph Data Science Certification](https://graphacademy.neo4j.com/u/ceb58edf-7d23-451b-9a1a-923e8cbf215c/gds-certification/#.YwS7pyPHyQg.link) (2022),
   - [Udacity Data Streaming Nanodegree](https://www.udacity.com/course/data-streaming-nanodegree--nd029) (2022),  
   - [Udacity Data Architect Nanodegree](https://www.udacity.com/course/data-architect-nanodegree--nd038) (2021),
+  - [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (2019),
   - [Cloudera Machine Learning with TensorFlow on Google Cloud Platform (GCP)](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) (2020),
   - [Applied Machine Learning by Columbia Engineering Executive Education](https://online-exec.cvn.columbia.edu/applied-machine-learning) (2019),
   - [Machine Learning: From Data to Decisions, MIT Professional Education](https://professionalonline1.mit.edu/machine-learning/index.php) (2019),
-  - [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (2019),
   - [Udemy Complete Guide to TensorFlow for Deep Learning with Python]() (2019), 
   - Disney Leadership Essentials (2024),
   - Harvard ManageMentor [Coaching](https://hbr.org/learning), [Feedback Essentials](https://hbr.org/learning), [Developing Employees](https://hbr.org/learning) (2022).
