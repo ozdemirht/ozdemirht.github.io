@@ -26,6 +26,7 @@ Articles in [Medium.com](https://ozdemirtim.medium.com/) by [Tim Ozdemir](https:
   - [NNQ: R-Tree vs H3 Index Jupyter Notebook](https://github.com/ozdemirht/py_redis_1/blob/master/docs/Test-DuckDB.ipynb) (DuckDB, R-Tree, Uber H3, Pandas, Folium, Python, SQL,...)
   - [Note: Distance calculation between spatial points (locations)](https://github.com/ozdemirht/py_redis_1/blob/master/docs/Note-SpatialDistance.ipynb) (DuckDB,PostGIS, SQL, Python)
   - [Note: ElasticSearch for Nearest Neighbour Query / Proximity Search](https://github.com/ozdemirht/py_redis_1/blob/master/docs/Note-ESearch.ipynb) (Elasticsearch, NNQ, Python)
+1. [Chat with your book (LLM with RAG)](https://github.com/ozdemirht/generative-ai/tree/main/RAG0) (streamlit, LangChain, OpenAI) (2025)
 1. Open API: Adding summary of history to context (Prompts for role: user and assistant) (2025)
 1. Open API: Classification (utilize prompts of user-assitant for sample-label) (2025)
 1. Open API: F(dietary restrictions, cuisine, available ingirendients) => Recipe (2025)
