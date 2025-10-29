@@ -27,6 +27,7 @@ Articles in [Medium.com](https://ozdemirtim.medium.com/) by [Tim Ozdemir](https:
   - [Note: Distance calculation between spatial points (locations)](https://github.com/ozdemirht/py_redis_1/blob/master/docs/Note-SpatialDistance.ipynb) (DuckDB,PostGIS, SQL, Python)
   - [Note: ElasticSearch for Nearest Neighbour Query / Proximity Search](https://github.com/ozdemirht/py_redis_1/blob/master/docs/Note-ESearch.ipynb) (Elasticsearch, NNQ, Python)
 1. [Chat with your book (LLM with RAG)](https://github.com/ozdemirht/generative-ai/tree/main/RAG0) (streamlit, LangChain, OpenAI) (2025)
+  - [Calculate The Number Of Tokens](https://github.com/ozdemirht/generative-ai/blob/main/RAG0/src/Calculate-Number-of-Tokens.ipynb) (tiktoken)
 1. Open API: Adding summary of history to context (Prompts for role: user and assistant) (2025)
 1. Open API: Classification (utilize prompts of user-assitant for sample-label) (2025)
 1. Open API: F(dietary restrictions, cuisine, available ingirendients) => Recipe (2025)
