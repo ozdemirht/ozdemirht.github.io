@@ -31,7 +31,7 @@ Articles in [Medium.com](https://ozdemirtim.medium.com/) by [Tim Ozdemir](https:
 1. [Chat with your book (LLM with RAG)](https://github.com/ozdemirht/generative-ai/tree/main/RAG0) (streamlit, LangChain, OpenAI) (2025)
   - [Calculate The Number Of Tokens](https://github.com/ozdemirht/generative-ai/blob/main/RAG0/src/Calculate-Number-of-Tokens.ipynb) (tiktoken)
   - [Vector stores with FAISS, indexing and search visualization](https://github.com/ozdemirht/generative-ai/blob/main/RAG0/src/Retrieval_FAISS.ipynb) (FAISS, Dimension reduction(t-SNE, PCA), 2D/3D Visualization (Matplotlib, Plotly), LangChain, Hugging Face, Local LLM)
-  - [Note: Elasticsearch for Semantic Search](https://github.com/ozdemirht/py_redis_1/blob/master/docs/Note-ESearch-Semantic.ipynb) (Elasticsearch, Semantic search, dense vectors, Text Embedding, Sentence-Transformers, Hugging Face (all-MiniLM-L6-v2,embeddinggemma-300m), Python) 
+  - [Note: Elasticsearch for Semantic Search](https://github.com/ozdemirht/py_redis_1/blob/master/docs/Note-ESearch-Semantic.ipynb) (Elasticsearch, DSL, Semantic search, dense vectors, Text Embedding, Sentence-Transformers, Hugging Face (all-MiniLM-L6-v2,embeddinggemma-300m), Seaborn, Python) 
 1. Open API: Adding summary of context history (Prompts for role: user and assistant) (2025)
 1. Open API: Classification (utilize prompts of user-assitant for sample-label) (2025)
 1. Open API: F(dietary restrictions, cuisine, available ingirendients) => Recipe (2025)
