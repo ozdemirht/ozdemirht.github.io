@@ -14,7 +14,7 @@ header:
 Articles in [Medium.com](https://ozdemirtim.medium.com/) by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
 ------
 1. [AI Farming Buddy in Lesotho](https://github.com/ozdemirht/generative-ai/blob/main/Kaggle-Google-GenAI-2025/kaggle-ai-google-capstone.ipynb) capstone project for [5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents) (2025) (Google ADK, Multi-Agent, MCP Servers, Tools, LLM Agents, Workflow: Coordinator, Weather, Farming, External API, DuckDB)
-   1. ![](https://github.com/ozdemirht/generative-ai/blob/main/Kaggle-Google-GenAI-2025/docs/Capstone-Architecture-Diagram.png)
+   1. ![Capstone Architecture Diagram](https://github.com/ozdemirht/generative-ai/blob/main/Kaggle-Google-GenAI-2025/docs/Capstone-Architecture-Diagram.png)
    1. [Kaggle Notebook](https://www.kaggle.com/code/ozdemirht/kaggle-ai-google-capstone)
    1. [Writeup on AI Farming Buddy in Lesotho](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/ai-farming-buddy-in-lesotho)
 1. [GenAI-Driven SDLC : Generate React UI Code](https://ozdemirtim.medium.com/genai-driven-sdlc-generate-react-ui-code-1746feb8d836) (2025) 
