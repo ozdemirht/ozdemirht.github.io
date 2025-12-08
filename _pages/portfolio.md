@@ -13,7 +13,7 @@ header:
  
 Articles in [Medium.com](https://ozdemirtim.medium.com/) by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
 ------
-1. [Community Health Workers (CHW) Hypertension Mentor](https://www.kaggle.com/competitions/gemini-3/writeups/community-health-workers-chw-hypertension-mentor) submitted for [Google DeepMind - Vibe Code with Gemini 3 Pro in AI Studio](https://www.kaggle.com/competitions/gemini-3)
+1. [Community Health Workers (CHW) Hypertension Mentor](https://www.kaggle.com/competitions/gemini-3/writeups/community-health-workers-chw-hypertension-mentor) submitted for [Google DeepMind - Vibe Code with Gemini 3 Pro in AI Studio](https://www.kaggle.com/competitions/gemini-3) (2025)
     1. ![Use Case for CHW](../images/HeartGuard-Gambia-Gemini_Generated_Image_small.png)
     1. [Video](https://youtu.be/1T2ivNFrKZE)
     1. [HeartGuard Chatbot](https://aistudio.google.com/apps/drive/1-QMrnEV0uD50o7Ob3NYxZertFehZgIIe?fullscreenApplet=true&showPreview=true&showAssistant=true)
