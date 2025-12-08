@@ -10,7 +10,7 @@ header:
 ---
 
 {% include base_path %}
-
+ 
 Articles in [Medium.com](https://ozdemirtim.medium.com/) by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
 ------
 1. [Community Health Workers (CHW) Hypertension Mentor](https://www.kaggle.com/competitions/gemini-3/writeups/community-health-workers-chw-hypertension-mentor) submitted for [Google DeepMind - Vibe Code with Gemini 3 Pro in AI Studio](https://www.kaggle.com/competitions/gemini-3)
