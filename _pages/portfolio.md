@@ -37,6 +37,7 @@ Articles in [Medium.com](https://ozdemirtim.medium.com/) by [Tim Ozdemir](https:
   - [Note: ElasticSearch for Nearest Neighbour Query / Proximity Search](https://github.com/ozdemirht/py_redis_1/blob/master/docs/Note-ESearch.ipynb) (Elasticsearch, NNQ, Python)
   - [Note: Redis for Proximity Search](https://github.com/ozdemirht/py_redis_1/blob/master/docs/Note-Redis.ipynb) (Redis, Lua Scripting, NNQ, Python)
   - [Note: PostgreSQL and PostGIS for Nearest Neighbour Query / Proximity Search](https://github.com/ozdemirht/py_redis_1/blob/master/docs/Note-Postgresql-Spatial.ipynb) (Postgresql, PostGIS, psycopg2, NNQ, Python)
+  - [Note: MySQL OpenGIS for Nearest Neighbour Query / Proximity Search](https://github.com/ozdemirht/py_redis_1/blob/master/docs/Note-MySQL.ipynb) (MySQL, OpenGIS, pymysql, NNQ, Python)
 1. [Chat with your book (LLM with RAG)](https://github.com/ozdemirht/generative-ai/tree/main/RAG0) (streamlit, LangChain, OpenAI) (2025)
   - [Calculate The Number Of Tokens](https://github.com/ozdemirht/generative-ai/blob/main/RAG0/src/Calculate-Number-of-Tokens.ipynb) (tiktoken)
   - [Vector stores with FAISS, indexing and search visualization](https://github.com/ozdemirht/generative-ai/blob/main/RAG0/src/Retrieval_FAISS.ipynb) (FAISS, Dimension reduction(t-SNE, PCA), 2D/3D Visualization (Matplotlib, Plotly), LangChain, Hugging Face, Local LLM)
