@@ -13,7 +13,7 @@ header:
  
 Articles in [Medium.com](https://ozdemirtim.medium.com/) by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
 ------
-1. [System Design: Food Delivery System, Proximity Search](https://medium.com/@ozdemirtim/system-design-food-delivery-system-a08364d680cd) (2025)
+1. [System Design: Food Delivery System, Proximity Search Deep Dive](https://medium.com/@ozdemirtim/system-design-food-delivery-system-a08364d680cd) (2025)
 1. [GenAI-Driven SDLC : Generate React UI Code](https://ozdemirtim.medium.com/genai-driven-sdlc-generate-react-ui-code-1746feb8d836) (2025) 
 1. [GenAI-Driven SDLC](https://ozdemirtim.medium.com/genai-driven-sdlc-d7b02c673bb0) (2025)
 1. [System Design: Food Delivery System](https://medium.com/@ozdemirtim/system-design-food-delivery-system-217356c1988d) (2025)
