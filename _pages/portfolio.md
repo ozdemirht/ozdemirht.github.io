@@ -32,6 +32,7 @@ Articles in [Medium.com](https://ozdemirtim.medium.com/) by [Tim Ozdemir](https:
    1. [Writeup on AI Farming Buddy in Lesotho](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/ai-farming-buddy-in-lesotho)
 
 **Drafts**
+1. [Vibe Coding with Google AI Studio: HeartGuard Hypertension Assistant](https://medium.com/@ozdemirtim/vibe-coding-with-google-ai-studio-b0b3246a9a49)
 1. [System Design: Food Delivery System, Proximity Search](https://medium.com/@ozdemirtim/system-design-food-delivery-system-a08364d680cd) (2025)
   - [Location Update to Redis](https://github.com/ozdemirht/py_redis_1) (Redis, multi-thread motion simulation of delivery agents, Python)
   - [NNQ: Uber H3 Spatial Index Jupyter Notebook](https://github.com/ozdemirht/py_redis_1/blob/master/docs/Test-H3.ipynb) (Uber H3, Folium, Python)
