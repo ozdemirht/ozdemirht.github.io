@@ -28,6 +28,17 @@ Articles in [Medium.com](https://ozdemirtim.medium.com/) by [Tim Ozdemir](https:
 1. [Algorithm Interview by Example: Process](https://medium.com/@ozdemirtim/algorithm-interview-by-example-process-d12a70202c9f) (2020)
 1. [Algorithm Interview by Example: Random Selection](https://medium.com/@ozdemirtim/algorithm-interview-by-example-random-selection-42bf4aaad9e2) (2020)
 
+**Kaggle**
+1. [Community Health Workers (CHW) Hypertension Mentor](https://www.kaggle.com/competitions/gemini-3/writeups/community-health-workers-chw-hypertension-mentor) submitted for Kaggle [Google DeepMind - Vibe Code with Gemini 3 Pro in AI Studio](https://www.kaggle.com/competitions/gemini-3) (2025) (Google AI Studio, Vibe Coding, Prompt Engineering)
+    1. ![Use Case for CHW](../images/HeartGuard-Gambia-Gemini_Generated_Image_small.png)
+    1. [Video](https://youtu.be/1T2ivNFrKZE)
+    1. [HeartGuard Chatbot](https://aistudio.google.com/apps/drive/1-QMrnEV0uD50o7Ob3NYxZertFehZgIIe?fullscreenApplet=true&showPreview=true&showAssistant=true)
+1. [AI Farming Buddy in Lesotho](https://github.com/ozdemirht/generative-ai/blob/main/Kaggle-Google-GenAI-2025/kaggle-ai-google-capstone.ipynb) capstone project for [5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents) (2025) (Google ADK, Multi-Agent, MCP Servers, Tools, LLM Agents, Workflow: Coordinator, Weather, Farming, External API, DuckDB)
+   1. ![Capstone Architecture Diagram](../images/Capstone-Architecture-Diagram.png),
+          use link [Capstone Architecture Diagram](https://github.com/ozdemirht/generative-ai/blob/main/Kaggle-Google-GenAI-2025/docs/Capstone-Architecture-Diagram.png)
+   1. [Kaggle Notebook](https://www.kaggle.com/code/ozdemirht/kaggle-ai-google-capstone)
+   1. [Writeup on AI Farming Buddy in Lesotho](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/ai-farming-buddy-in-lesotho)
+
 **Drafts**
 1. [System Design: Food Delivery System, Proximity Search](https://medium.com/@ozdemirtim/system-design-food-delivery-system-a08364d680cd) (2025)
   - [Location Update to Redis](https://github.com/ozdemirht/py_redis_1) (Redis, multi-thread motion simulation of delivery agents, Python)
