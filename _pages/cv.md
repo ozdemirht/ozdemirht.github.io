@@ -36,6 +36,7 @@ Work experience
   * [College of Engineering and Computer Science](https://eng-cs.syr.edu/), [Syracuse University](https://www.syracuse.edu/), Syracuse, New York, USA.
 * Jan 1992 - Aug 1994, <i>Research and Teaching Assistant</i>, 
   * [Department of Computer Science](https://www.cs.hacettepe.edu.tr/index.html),[Hacettepe University](https://www.hacettepe.edu.tr/english/), Ankara, Turkey.
+  * H. Timucin Ozdemir, "Semi Automatic Karyotyping System", Hacettepe University Master Thesis Work, Ankara, Turkey, August 20, 1994.
 
 Teaching
 ======
