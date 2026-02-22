@@ -24,7 +24,7 @@ Work experience
   * [Oracle](http://www.oracle.com), Oracle Cloud Infrastructure, New Jersey, USA
 * September 2022 - July 2025, <i>Software Engineering Manager</i>,
   * [The Walt Disney Company](http://www.disney.com), New York, New York, USA.
-* May 2021, <i>Software Development Manager</i>,
+*  May 2021 - May 2022, <i>Software Development Manager</i>,
   * [Amazon](http://www.amazon.com), New York, New York, USA.
 * April 2019 - May 2021, <i>Software Engineering Manager: Data and Analytics</i>, 
   * [IAC (iac.com)](https://www.iac.com/) [Mosaic Group](https://www.iac.com/brand/mosaic-group), New York, New York, USA.
