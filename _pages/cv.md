@@ -20,7 +20,9 @@ Education
 
 Work experience
 ======
-* September 2022 - Present, <i>Software Engineering Manager</i>,
+* January 2026 - Present, <i>Senior Software Development Manager</i>,
+  * [Oracle](http://www.oracle.com), Oracle Cloud Infrastructure
+* September 2022 - July 2025, <i>Software Engineering Manager</i>,
   * [The Walt Disney Company](http://www.disney.com), New York, New York, USA.
 * May 2021, <i>Software Development Manager</i>,
   * [Amazon](http://www.amazon.com), New York, New York, USA.
